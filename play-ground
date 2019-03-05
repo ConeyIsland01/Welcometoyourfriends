@@ -24,10 +24,10 @@ div {
 <body>
 
 <div>
-<h1 class="sansserif">This is for playing around!</h1>
+<h1 class="sansserif">It actually works</h1>
 
 
-<p class="sansserif">Canvas for javascript:</p>
+<p class="sansserif">Works as intended</p>
 <p>
 <canvas id="myCanvas" width="600" height="400" style="border:1px solid #A9A9A9;">
 Your browser does not support the HTML5 canvas tag.
