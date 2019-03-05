@@ -208,7 +208,7 @@ ctx.fillRect(150,100,150,100);
 	</g>
 </g>
 <rect x="9.7" y="14" class="st2" width="22.6" height="15.5"/>
-<text transform="matrix(1 0 0 1 9.6875 24.3647)" class="st3 st4 st5">MB</text>
+<text transform="matrix(1 0 0 1 9.6875 24.3647)" class="st3 st4 st5">See if the comment is going to be added.</text>
 </svg>
 </div>
 </body>
