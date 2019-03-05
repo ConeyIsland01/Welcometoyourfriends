@@ -24,7 +24,7 @@ div {
 <body>
 
 <div>
-<h1 class="sansserif">This is for playing around!</h1>
+<h1 class="sansserif">It actually works</h1>
 
 
 <p class="sansserif">Canvas for javascript:</p>
