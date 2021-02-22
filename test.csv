@@ -1,0 +1,1001 @@
+id,type,state,rank
+035db444a571a4cd65e8ca00145877b416cda582,02 Sink,wa,06 Target Close Connection
+7f0d84cf1ebfd7042a9f6f9939bdf72e00a2c7ff,02 Sink,dc,09 Associations
+47b60f6efdff8da1f6ebc873fefae0b0b19195d1,01 Source,ca,04 Coworkers
+be6c142eea53199c86202e2ef8285372f64ae226,01 Source,ny,04 Coworkers
+41e7b6b325465497da7678a8bc424c29e6731ef5,01 Source,mi,08 Classmates
+eca31acae04e02f6d0ed3b7e47a09e78c837d089,02 Sink,ny,09 Associations
+c41f9cc26cb6d5369646e21800be70785a3c516f,01 Source,pa,02 Staffers
+eed3ecc11befd1f1a94521e95914b717946a9943,01 Source,dc,06 Target Close Connection
+94311fd6f8a503358672c4c8b7045ba88f2be856,01 Source,fl,04 Coworkers
+f135a3c6203f440a7e9dc5225d077ab089c0e390,02 Sink,in,04 Coworkers
+82b26f1db0f88100a3b1a116487cefe26a1ead80,02 Sink,mn,04 Coworkers
+1af27530647d32991c1b0fad9d84f2a370f6cc8a,01 Source,va,04 Coworkers
+49cd6e09507d7a5f9ad111e1e725bb64a92aea47,01 Source,nj,04 Coworkers
+636ca50e96ff5fa8b25d60a81ad3d2495d6ab66b,02 Sink,de,09 Associations
+a39f257c01a923c617caf4c6086cb36ed19eeef2,01 Source,nj,04 Coworkers
+0491313236e69b5c37a3619790e8a8f3c1b10bd2,01 Source,mn,08 Classmates
+e20510536db518d84036b72ecb30283f1bb0b56c,01 Source,dc,04 Coworkers
+6b5535688df15f1fd9f659691d71c39e5a5b781e,02 Sink,ny,04 Coworkers
+4cd729e053adf39f5ff39ea027ba951efeeb60c3,02 Sink,ne,09 Associations
+3fa93ab9a54cc875bab63e4a73c7ff3d3fd51ef5,02 Sink,ma,07 Individual Connections
+08fa80bd8eea6e5162e04c02abc068e2a2d95c30,01 Source,az,08 Classmates
+41aa998d0c727e10f1610548ed77edd42ee81a18,01 Source,tx,04 Coworkers
+3084b06e8d3ea994dc5469a72ceb6e195dd401c1,01 Source,ca,04 Coworkers
+834ae02637658ff698214b6231780a5ff17efe74,01 Source,ca,05 High Donor
+e39c5c6e04d9e81dace3570e914082925517d9b4,02 Sink,mo,04 Coworkers
+4cc712c56db5d786b516d82eac2f489458f469c8,01 Source,tn,04 Coworkers
+af4b3d53593d4b29eae4302f3dd36961963e973d,01 Source,ny,05 High Donor
+a85e2feb20d95a19f2fd5bc90ee831d7906e793f,01 Source,md,04 Coworkers
+77ec62796f649760c17bb8ccf9ed4da79462d889,01 Source,md,04 Coworkers
+b8d3f601c9db33d762e0ff3f4e2f3d7c840d02ed,01 Source,co,04 Coworkers
+2e74d188468cf95088da84268de5b336b22b47ac,02 Sink,va,04 Coworkers
+467b966c2d8bc38a84a244cac365543d9e740281,02 Sink,ny,06 Target Close Connection
+78a1c56f33e17bf349006ce9db8c9a896dc3d094,01 Source,ny,08 Classmates
+07ccedb500175689fd136e950713d3ab669a6b2c,02 Sink,ma,04 Coworkers
+e8d81fde0d7b074a60cb5db4b04be4f6cbc65de3,01 Source,ma,04 Coworkers
+c1a002be519e7d6a93a46854328f2f4121a5426d,02 Sink,dc,04 Coworkers
+698732b64d94ea7eb9a785f6f9c4624ab20ceea6,01 Source,pa,04 Coworkers
+20079d5f8c584d54e0dec2ad3cc988cd3bba453b,02 Sink,va,04 Coworkers
+1c47d72d6961d3bb6e477b631e157c216a552b82,01 Source,dc,04 Coworkers
+e92b8cf54235942cb464d4b425b9d4c7b0fcf26c,01 Source,ca,04 Coworkers
+00042b99b9df5a353796f034b0a382ee05f0d084,02 Sink,ut,09 Associations
+adbe64e63206f2de23695574f4f45981669e7c27,01 Source,tn,08 Classmates
+b1ad819df937752a1a20397afd1811bba4e122cf,01 Source,va,04 Coworkers
+deb86e6b44249ba8bb1b4095b3d07b8a0bdebde0,01 Source,ny,09 Associations
+0c4882e148d51483bc505454c800227a3d70a0e0,01 Source,nj,02 Staffers
+49bcabc706df5d15a6b6cbb32e637175b43c7bcd,01 Source,pa,04 Coworkers
+b421b5958fa4306fe2235d519af0b76763dfc932,01 Source,ma,04 Coworkers
+baaf94b16ad206a7dcfcceb3aa311dc60865867a,01 Source,dc,04 Coworkers
+76a1bd38cd30173feb39a96753583c1e4542eecd,02 Sink,il,04 Coworkers
+a82cd0222ca089efc17f05a18fe68a7475b47b3a,01 Source,dc,04 Coworkers
+a839acf03ce4ab98386d7e976e1ddd27ad75ade4,01 Source,ny,04 Coworkers
+01997d192708e05882ae94ba6cf150a3f7b0b774,02 Sink,ga,04 Coworkers
+d816adcdaf7099b919743ee2c24a697b872bee1e,01 Source,ma,04 Coworkers
+fa8c372e65c15403365c14317e7d5bf7e4fc80a8,02 Sink,ms,04 Coworkers
+03621d0e6d5ca7eedfb00cab0d1835c2e1920743,02 Sink,ny,04 Coworkers
+42ed03750d266504701cc9f96b7645dcdecc3095,01 Source,wi,08 Classmates
+c0ae7e6ecc585a12fa13c6a6adac48ba4465cc55,02 Sink,md,09 Associations
+c5f83689f16d23e4482eef2bc558665651446e58,01 Source,tx,09 Associations
+a9bffaacc0b9caa916b293bbe51ba521683dcfa0,01 Source,ma,04 Coworkers
+2c9b6f17784a0ce7d2f477f8882cc9eba22d9941,02 Sink,tn,04 Coworkers
+7c3ecea7a76444d9dc58e0ff1c9a6ed9a1c23fc4,02 Sink,ct,04 Coworkers
+02f7b57b033fb3ffe7bf0e871d736c519617c95f,02 Sink,nm,09 Associations
+ae2365867e9e09b6056c70cb357581a9e0c5de83,01 Source,ny,04 Coworkers
+0cd3d50e512358070c7f89d143a554f6455ddb2f,01 Source,dc,06 Target Close Connection
+a64365f9e2cd3e28cc2ba2768d83053424b289c1,01 Source,ny,09 Associations
+4a481880ad07a491722277950c758cd5fcfb573b,01 Source,md,05 High Donor
+163435cb39ba6c83b9147c0e97d167a705a96f86,01 Source,va,09 Associations
+e13fedc2851c4c593e0ddc868f6912c9a26b2c06,01 Source,dc,08 Classmates
+7cbc02225a28587d2ec8def313aa9212af747ff0,02 Sink,md,04 Coworkers
+a0d07e6e7aecb4725048a62006e14eb3f0d91235,01 Source,va,04 Coworkers
+bd706a2c1ee8c041cd40b68130613b739cda636c,01 Source,md,04 Coworkers
+3061ae564f6a589ba1207a94421a8399346fcddd,02 Sink,va,04 Coworkers
+6d1944362226bc6a20acbe5a056b599fe1d50499,01 Source,ma,05 High Donor
+5cc0b8a14a2600380b37676796fec3e32e6313d0,01 Source,co,05 High Donor
+345cb3682b3223754dcf34884eb4dce2bed842f6,01 Source,in,04 Coworkers
+cc1716edd764635ca8279c18d81c5ccccb0ec492,01 Source,va,04 Coworkers
+a3408923d08434dd3a038853269900f4a87e6d3b,02 Sink,dc,07 Individual Connections
+84622ab6d985ba0fb4d41128c2c49da6ec836eab,02 Sink,md,09 Associations
+b57149aa7359aceb061f039a509b911839cbc61d,01 Source,in,02 Staffers
+b8aa80a8ca2c79d23dddea7ac90debb65eb8993d,01 Source,dc,06 Target Close Connection
+8dc6fc16f156d6058305e4255f7b8fb0cd44cc89,01 Source,ct,05 High Donor
+1988a6f5d12e592e5d392d2d3f9a801135240850,02 Sink,ny,04 Coworkers
+7def2010e69c67aac40e8c27550d8e302b69e05f,01 Source,ny,08 Classmates
+bf1d510046deb3fea58b021fb45d542fae56f63f,02 Sink,dc,09 Associations
+0a752795d9f4f5791c121ead9bea604dfa0d3c09,01 Source,ca,04 Coworkers
+785b64964b7685db792810963ec2099033c1532c,01 Source,in,04 Coworkers
+a7856fce058eee004172e9e4cf2479faa27e6aaf,02 Sink,dc,04 Coworkers
+6d5690a8d3b8f3de80d296f179abb2914592b608,02 Sink,md,04 Coworkers
+7ae810e3675a5919738187cc10bdd654a8658f42,01 Source,nj,04 Coworkers
+8731a1d2f88d70b011b112d704c1bb19ab4b296a,01 Source,md,13 Assoc Old
+1f2df47306f791eb9cb2dc8150d3a925f2a884d9,01 Source,dc,04 Coworkers
+1d57867edf9404f9b2a7dd12eee43255d53f2bdd,01 Source,va,04 Coworkers
+c4dd193ca877355a3fa07389833888cd3551d0e8,01 Source,mi,04 Coworkers
+c2a72a02434bb3b534cbe2c18349f8dc5a6ab487,02 Sink,tx,04 Coworkers
+a72ae049989c8c4ea5e5e4bf9198201a34f1d0ae,01 Source,tx,09 Associations
+76e77ebbfe2b59e79177c2f9b52d025aaab65328,01 Source,nj,04 Coworkers
+c0d5b0db1c61b2a2a41d635af7ad865bffd13559,01 Source,ny,08 Classmates
+562bd5e31d7d2e39e691009e506373bc3c6d92ac,02 Sink,fl,04 Coworkers
+3f295871b3716860e406753010d5a6c53e6c2d7c,01 Source,nj,04 Coworkers
+4aa489343a12fd9aef17fe4d824150628d0d1406,01 Source,nj,08 Classmates
+5a510247a9dc5affbe38d647b11719d93d8d2fa5,02 Sink,dc,04 Coworkers
+6da1b56fabb897a4363b4eccaa4f284ad4098a9f,02 Sink,mi,04 Coworkers
+1d5698fe1bd289643e7eedffb95af3c25318ad19,02 Sink,va,04 Coworkers
+69002ac13e97fb8ded565b2e09872e716312d177,01 Source,ma,08 Classmates
+6fcd3ade1ceb90b655becc47fa2efbb30c7383f5,02 Sink,ny,04 Coworkers
+ffb9e77747b25f7430ba41273ed4498a6c9cbfee,01 Source,dc,04 Coworkers
+c8640ea64b70768edb0b09b729d39b1c416cfa6a,01 Source,wi,04 Coworkers
+1199fccf5a0fdcca7e480404089dc555f5a5f0ee,01 Source,il,09 Associations
+09aea69f166ee79814e496092a5a5a3ccaf8d7e8,02 Sink,tn,03 Target Family
+bf26fb662666e7837b2b9e55eb2ff781094dc077,02 Sink,ma,04 Coworkers
+5b931c25749141176f91cdef94cef6ac9b8c22bd,01 Source,md,04 Coworkers
+3b0954f36e9b98059389c55a5cf552c3e7adf8f2,02 Sink,dc,04 Coworkers
+96a12fd461dcbc4a7bbeb941842fa9608a235672,02 Sink,dc,09 Associations
+74ed7a7ed46f80449b2854f46ca4771ceb9140bd,02 Sink,ny,04 Coworkers
+37148a4641ed8f34c1477435a41fd2762b905da6,02 Sink,pa,04 Coworkers
+a8804702a0b1f381f8c09fde7747ffd49228fffd,01 Source,pa,06 Target Close Connection
+1c0dfaea6bb542865c43f3b84531b58c98ef323f,01 Source,ny,05 High Donor
+c99b83cee033ca255b8a41207fd84d77bd521fe3,02 Sink,ny,09 Associations
+be7a52b70dabb4f925b08aa3dfddb0ee254d6ce8,02 Sink,ct,04 Coworkers
+d0498e4f6df55788db70286f1921c4b9126879dc,01 Source,nh,04 Coworkers
+977698254d3461b0a298fe1a50c37387df07fb0c,01 Source,mo,05 High Donor
+00dc2bfef6b8be0c8bd627e5dfa9676c8a3693c0,01 Source,ca,05 High Donor
+c58dea280ed1ab1d35e68ce88db7e089f3f347bc,02 Sink,va,04 Coworkers
+feb8a1e458d295205e0a4cf873243c9f4d980663,01 Source,tx,04 Coworkers
+d9896df7d1179b18a05be33cc500e63602a5ec20,01 Source,va,04 Coworkers
+d1cd3c29052aad2e190364508d334d089627c06e,01 Source,tx,09 Associations
+bbcc6baa46cd617fa9184aeba43cd0b7beaa495b,01 Source,ma,04 Coworkers
+35f07e2997c14d856c6f8b34e57ca0ed7d932561,01 Source,ny,04 Coworkers
+6f028380703d6ab491ce4ccf371a97f2655362b9,01 Source,ny,04 Coworkers
+2cbc0180a9244a6b6b99b420f552aaa84b021e5f,01 Source,in,04 Coworkers
+fd3336759ddfcbd71500cab7e286d9129a77c366,01 Source,ny,04 Coworkers
+7d8e945f5f77066241089f599f2aa3b292033af2,01 Source,ny,09 Associations
+f471b4fbe7972f55cccc1d7c52eb3b52226da820,01 Source,ny,04 Coworkers
+779f6c1d639c215087823efcea354c1e031b06c6,02 Sink,or,04 Coworkers
+f844e2dc3f29cee4424bc7f359283b744ffff93f,01 Source,ma,04 Coworkers
+8f6af47c864979747a0e2a3f0355f2c888287e2e,01 Source,tx,04 Coworkers
+4cbdfd94ab6be172ba59fae9d72116530e87b00d,01 Source,fl,09 Associations
+b08839644f835d4b193781a8b8e156bc573bf764,01 Source,oh,09 Associations
+9e325ef1f75bd77e84a045005e987e4ff5ec69a0,01 Source,ma,04 Coworkers
+2e08eaee5898e4a6ba23365ab9cda672b303b345,01 Source,ca,04 Coworkers
+c0adbe8bb634639d0a65a3e2cf5e10d5a524b4bf,01 Source,ca,04 Coworkers
+aa35f3851ca925b3357805ab1a99cfaee48d64d2,02 Sink,mn,04 Coworkers
+bc8ed4d7bdc9f2f4b0ed4f3bb850610339ed6d62,01 Source,oh,04 Coworkers
+7fac85d31088c747ba6c1fdc02dc14cb16c60967,01 Source,ma,04 Coworkers
+8d7aabf427e5def5331b6d439cc1ea8f4696146b,01 Source,ar,04 Coworkers
+aed4eaf6c125a9a531dea657228b0fb9749f23e5,02 Sink,sc,09 Associations
+e5639efb2511bb9c9f0c2acda60da76f8e009da5,02 Sink,tx,09 Associations
+839a7fae3db472f0cefc5e3db110ed3a4ee67779,01 Source,va,04 Coworkers
+d787aca9910ea53528177e918dce0b17010bd7aa,02 Sink,mn,04 Coworkers
+7d96a147f97f6b12de4a82fbcffad8b174f45a03,01 Source,ny,08 Classmates
+fcd58678dbe63c2177bc863b9a270c5e45c6fae0,01 Source,fl,04 Coworkers
+7b484f0dd978a185469622f16538790cf98432be,02 Sink,il,09 Associations
+d67d6cd8eb2ddfad26c9aedb2e305bc26c5c37d7,01 Source,mi,04 Coworkers
+f6aa0cae70dfb39bb68fe92ce9d207b4e1b62c41,01 Source,tx,05 High Donor
+3c09a8f39eb963e6fc94d745c337113d38ec0629,01 Source,nv,09 Associations
+f499c1ff1b12704b540f5e0751ad032f9f0ccb8c,01 Source,va,09 Associations
+2a86d0315a4bc33c4239523b67ede6c1cd27f63a,01 Source,mi,04 Coworkers
+289d2380f07af6f0b1a7bf2206818e3e5f354868,02 Sink,fl,04 Coworkers
+543868e809cd47fd24962deeb5fbf93006f145b7,02 Sink,va,04 Coworkers
+3813046abb08f7cad9c1667418354bb1243cd0a1,02 Sink,ny,04 Coworkers
+c7f466df2c72d9896593e5b351dd453c8c778f14,02 Sink,mo,09 Associations
+0dacbfce756446ad719c77b408838fb125295344,01 Source,tx,04 Coworkers
+a6814f0f479f9fa5d2543c932b3e2fd4bb166820,02 Sink,wa,04 Coworkers
+f88a6c9504bb9231013ac1803c5abafa3eb77547,01 Source,ny,04 Coworkers
+de2539a988b1b484e1b87622713ae540bc65ae09,02 Sink,oh,04 Coworkers
+394feee157380304cb9100a0c8c8298d4451c3d4,01 Source,oh,09 Associations
+27fea27b939801e88639369af63c03b6f0d04949,02 Sink,il,04 Coworkers
+510124743b10ff2841aa6149c1740ed640976c88,01 Source,nj,08 Classmates
+b76dbc679f0fd0167f921b09ea6d82c51cd1ca04,01 Source,va,08 Classmates
+b4be1e7bb9955e2505c76542be8b0afe759ae478,01 Source,ny,04 Coworkers
+cd360ccdb428c162a15724caa5dc1ef47930e0d6,01 Source,nc,04 Coworkers
+0742d06f4ae3503c058c8f9a17687faa66f841b1,02 Sink,dc,09 Associations
+17490f991a3652e97db4d436aba439adc29ed71b,02 Sink,dc,04 Coworkers
+b77cf08485487323377cd5288d469aed5d17b9a2,02 Sink,ak,04 Coworkers
+9b0263d646e3c4d11565acb8940cc14c7032285b,02 Sink,il,04 Coworkers
+4ed0e11077413a444e91eb2d730916fd8cee9f1b,01 Source,la,02 Staffers
+69b52adefa687398602ec8efd11e55e23108de18,02 Sink,al,04 Coworkers
+b860c727f03762b11eee98eddbc2a12e20daef15,02 Sink,nh,04 Coworkers
+6a381d5f156885e3593a866497f46f144bc43e38,01 Source,tx,09 Associations
+8999db47bb1243cd0f59b0953839c4a348ffebdf,01 Source,ca,05 High Donor
+374872e7b72a7945340604549ee7227d9afe77ea,01 Source,dc,04 Coworkers
+f9feba082f436e7f880edc7aa3abf1e4d088bf90,02 Sink,tn,04 Coworkers
+34f2fd706869dd7a10958a682d9c137e6258b97e,01 Source,dc,04 Coworkers
+b4bc779da9010de8bad60cba00b50f570298857d,02 Sink,md,04 Coworkers
+fbda083cbc7f314473992fcb85137b3d91e97897,02 Sink,ny,09 Associations
+2ca15c7836f8088c55a3dc0ef3abbd819eb65280,01 Source,ct,04 Coworkers
+92dead1ceeaebee3b7852dcbecd891a0e786f833,01 Source,ca,04 Coworkers
+46e36481cb75d27b2c75e822c7d3eb759b870f10,01 Source,dc,04 Coworkers
+ba42545cff11f57390cf0d57f4dacffd74c2c276,01 Source,tx,04 Coworkers
+c9810ae215e97279a3a30c6a042b8a8f5c5de525,02 Sink,or,04 Coworkers
+218dd9d24a8972ae611478d76947bfc35920110f,02 Sink,ma,09 Associations
+f62bca35322fdb696f6cec79f3f624e5143b02a1,01 Source,tx,04 Coworkers
+9c27858d65f497473cab558a9daa2f410d8eddfc,01 Source,tx,04 Coworkers
+b6845b52d8588e5982bbe450e6a17d4fbdc9505f,02 Sink,ca,09 Associations
+eed323a5c77aefe1b02081966d3f1a955209f1ad,02 Sink,md,06 Target Close Connection
+9b2a45eaf1574edbc35414e94be7461dc28eaed0,02 Sink,dc,04 Coworkers
+0d3670c85441684e3730e12edf3ffbef888ea744,02 Sink,in,04 Coworkers
+18aba431130bdddb103cfc50966cf80961bdbd51,01 Source,ga,04 Coworkers
+a0c680ca05f763e5280b3db912556ac039ce2736,02 Sink,vt,09 Associations
+876df478e2a53514dd19162622b519d88f7cda5a,01 Source,va,09 Associations
+0fb26f1a219a6f991c4c95d341548445b184d633,01 Source,ny,04 Coworkers
+5ca85e01e53b7fa401be124feb62caeca434d2ba,01 Source,ny,04 Coworkers
+bf987d1d5e3c6c0d0343aab52b7d6ef49d1a036f,01 Source,ma,04 Coworkers
+997d58949244fcce8273487ae7ecccd3a10d388e,01 Source,ok,08 Classmates
+3ae71b82bfce21f6fbbe2557c1bc383cadbc412e,01 Source,ga,04 Coworkers
+ec205388b801a053e23cb7ef5024400fc34b4624,01 Source,il,04 Coworkers
+d01838d9bac3f06356f7221aea189010f61c3991,01 Source,or,04 Coworkers
+64c37291ff1bbbb54e9e7a71c06c9a19a4aa6106,01 Source,nj,04 Coworkers
+db1f7a8c555b1cea6a0d7cd9cbb992c87105f7a2,01 Source,ks,04 Coworkers
+7279b42661dbfc044f1587a07348f178ce4c3458,01 Source,dc,06 Target Close Connection
+dcf57f1822e18943f645ba60bc828cd30ff6d4d6,02 Sink,tx,04 Coworkers
+e5aaa96fc2094bec1df2e3739c48ce3a8b5e026b,02 Sink,in,04 Coworkers
+35f45df53990ae30f7dae5f461a05d28cd96e667,02 Sink,mn,04 Coworkers
+166dd35e02e621e3a9cfedf67b6099d0c4526da0,01 Source,va,04 Coworkers
+751606157b19ae7a545418b9875e411ef8283a35,01 Source,ia,09 Associations
+35e668574b831ce1a6454bad5235600d9a1cce23,02 Sink,sc,04 Coworkers
+81b760d36f74cb1647642cc8cc5fb0bc733188ea,01 Source,il,09 Associations
+1845845968248680c7d0ab40e3c0a3bda768f688,01 Source,or,08 Classmates
+971221bbbcd6bf8f34de7b9dedb88a3b8229aba3,02 Sink,ma,04 Coworkers
+20913fca08146b7e2e729f126c81078f0b499d50,01 Source,ny,04 Coworkers
+dded856665551e37b3c8297c92ee0aeaf32b0602,02 Sink,sc,09 Associations
+60f5b32b6a517815fbc64ba3dac7c5041d5008e6,01 Source,oh,04 Coworkers
+cd757c7fd8dd9e22009a1e433a2350280a4ff9fe,01 Source,ar,04 Coworkers
+eb21a45b89b74e67f85603d2180f4f9b13f581b6,02 Sink,nj,04 Coworkers
+1e126dc5ad2ebf83c5e82180111a9ebe35ee5db6,01 Source,il,05 High Donor
+d9d5fcd1103c218ed18890ffe4d524e85de229c1,02 Sink,pa,06 Target Close Connection
+1b37fedcab74206c0d01625018d79c2a4838dc15,02 Sink,nv,04 Coworkers
+61291b84cff9b1ea833b722658eccbd05038a9d6,01 Source,ia,09 Associations
+1e7a3ba1ea06cab9c8cfcc454dc49e0f120eb125,02 Sink,ma,04 Coworkers
+c9b922ef7e0c727ce7116be6d1f705a0a6c782eb,01 Source,de,04 Coworkers
+7aab6ce301cc8263e9b05585a0c4322c99d8c152,01 Source,mi,04 Coworkers
+d36a9dcb4cd4d5c62b97f1f1ad318f7bc48be793,01 Source,va,04 Coworkers
+4ff33eec611268968e02a1260455b3f7f74cc049,01 Source,ga,04 Coworkers
+b85bd9a13f17f2a9a61627589cabf29b9e6f4731,01 Source,wa,05 High Donor
+9e50890ee540757b2eab6482cc4efe6ca204bd86,02 Sink,md,04 Coworkers
+a8901d1ca459ce5a15fbb01a5d449d6b5b5a53aa,01 Source,fl,09 Associations
+71f3050799f5d7f8898fe60431640a4638128c5c,02 Sink,tx,04 Coworkers
+827e2e6f46d927f7075408f70dfbb16aacc82edf,02 Sink,ca,04 Coworkers
+41b67e8bd563268a74057b48df412ab8bb299411,01 Source,ct,04 Coworkers
+537b21ba7d70255193ef544909dcebe33431fd3b,02 Sink,ny,04 Coworkers
+f6534280d5796a54bf2eff5c67997fb8edf14032,01 Source,dc,04 Coworkers
+53629aeee8dc1d9a732e18bf4b6f9e76f42404a4,01 Source,dc,04 Coworkers
+01d09d8a053d43a38342e138636b13d1182e0d33,01 Source,fl,04 Coworkers
+ec1712c89d5787922b15255e4627790d309072b5,01 Source,fl,04 Coworkers
+c76a195f40b7cfb2e75fe17524f4f629c226309a,01 Source,ny,04 Coworkers
+12b97c2c44f87b351ed9bcf96212dd76142b9893,02 Sink,fl,09 Associations
+ecbd303be3ebd69a7bffa7ac42b22c563f13908e,02 Sink,va,04 Coworkers
+3e0a9978f4562df6c72b82cec58e318b9cb29ffc,02 Sink,va,09 Associations
+c6d4cb60a313bc531a5d4fe0e3f53f8fa361c911,01 Source,ca,04 Coworkers
+0d6be88085edd7d927f2036abb681b880de640ef,02 Sink,tn,06 Target Close Connection
+ac7882903df9c31de545b8ef78f1b283fee854aa,01 Source,ca,04 Coworkers
+fbc281214c434373011c785a12346826d891fc31,02 Sink,il,09 Associations
+6782b2fe41a9cc658ebe6ad8d1655ee3997e133b,02 Sink,pa,04 Coworkers
+8f5a44910699c369d20b812d22451a5e41896f2c,02 Sink,ca,04 Coworkers
+b58e2d731cc60aa94c690d7e84241340d25f5ea1,01 Source,tx,09 Associations
+51e6c1f72752440b966197ab3011b070d31cb0cb,01 Source,ct,09 Associations
+ce13bfa73c7f0adf53be03098f207cacaac75013,01 Source,wa,04 Coworkers
+75d82f78db0bb430d4b96fa9639090b2e310670c,02 Sink,wa,04 Coworkers
+553b71c5712c9a393553229e556fe4597c7c943d,02 Sink,pa,09 Associations
+b0aff01d22201611705d54ac79a9a83be4b321a5,01 Source,nh,04 Coworkers
+b0bc75785d67386d1914c3a3e79db1041e67729a,01 Source,ca,04 Coworkers
+40a7c90235924e058e9710cf72c0d4e3e7a42408,02 Sink,va,04 Coworkers
+7a2f761ebdd9211ae87e41df0a4b4d67bfb7b38d,01 Source,dc,04 Coworkers
+024aa552ae0922f77b2ce431c93c33f845a95af3,01 Source,md,04 Coworkers
+d3d1a96847dfe261670520efb2e4a313953e15a2,01 Source,tx,09 Associations
+4b70d4c4cf77839e4429f0b5184f1cca3a43f2ca,02 Sink,dc,04 Coworkers
+52826a7211193c62ecdf1db5e2337a6f71cd424d,02 Sink,wa,09 Associations
+98f9ffc45559dbf39e753d38a4f12045240fdcf6,02 Sink,va,04 Coworkers
+9598fce1e032af200f6ac50ec306cc923006c0fc,02 Sink,ct,04 Coworkers
+c0d4898371b628cad4dd045f2c005800c3960625,01 Source,dc,04 Coworkers
+7b70562fcbe062397a2294f38efe2119caa30d1d,02 Sink,md,04 Coworkers
+7bc6bc5ce477e6eb607c92acc12323bd87227d74,01 Source,dc,04 Coworkers
+720a4a680d0981970ac264ad0a3f97cefc770c71,02 Sink,pa,04 Coworkers
+a23fd161ea35c03b5954deea4a042dbd0caf3442,02 Sink,ny,06 Target Close Connection
+5f0bad48873a197c7d9cf4d1ad474411dad8e2c8,01 Source,dc,04 Coworkers
+5fd9d47768af6fc5652877e4cad2e33c700ccacb,02 Sink,oh,06 Target Close Connection
+e9f81b934853bbc71d54726f054a8753cc4dcbc5,01 Source,mi,04 Coworkers
+a0092420c7138a71040c0b1e3539cc0cbff30446,02 Sink,mi,06 Target Close Connection
+149d46be476aa1fd9a9b5c19650e72272e2a43df,01 Source,dc,04 Coworkers
+61add8d4a819e3e421469536bd66a09bb0552065,01 Source,ny,08 Classmates
+d1e4b1c778976da75df24c66ce09fa6351378069,01 Source,tx,04 Coworkers
+006c71e9bf7c47d3e90a35db6da178c514791b08,01 Source,va,04 Coworkers
+bce5799980478aa6ac829653e74267d5dbe06333,01 Source,dc,04 Coworkers
+ec9288c9067c4046931812321fe9348362d0d5b1,01 Source,tx,08 Classmates
+2611826eda6b976430563bb1dff914af034616a7,01 Source,ky,05 High Donor
+002e4b2b8c32cb97ed5650638bb0f9ee73d9c474,01 Source,dc,04 Coworkers
+8dd1613156db49b38a420237d98c3668857cfdf5,01 Source,la,05 High Donor
+d81aa4f5dda273b3fb6bd91651d590ade65d67e3,02 Sink,tx,04 Coworkers
+088e7f0d68bebae2ab1d45a3b3a887eb6496ba69,02 Sink,ca,09 Associations
+3213e82375756b23ad8c75eec4524c52d1ee05a3,01 Source,ca,08 Classmates
+4a88c09ce50d72cd23423931f5e5cb7bfa1806a7,02 Sink,ca,06 Target Close Connection
+609bc300e99d7511d477cd61a71c9b15d07c2b5c,01 Source,ca,08 Classmates
+c3cdd00de7d8eabbdc09d20727b1ceb9323e899a,02 Sink,sc,02 Staffers
+4d6a6577fc5189cdcc4b0c7e8eb7ffbbc33606d1,01 Source,nc,04 Coworkers
+ab37c77cd80163cc2cf85f89dd2779b5ff8eb021,02 Sink,dc,07 Individual Connections
+d05f8a14f8bf74b7d25198c67eb9ab37737faed8,02 Sink,az,04 Coworkers
+47e89a573661e3d97c899808db2b6c2a321a88a9,01 Source,ca,04 Coworkers
+ece92b74b1f7d5b48e7e65cae85b98921f38800e,01 Source,dc,04 Coworkers
+e9ae2471a4979bce8661f02dff859419578a60bc,01 Source,nv,02 Staffers
+c9bf6c9c7eb31d22ce78fe8bba6f143ba55e9aca,02 Sink,ga,04 Coworkers
+9a0d433b5ba75850737149dd574bbb961426de4e,01 Source,nc,09 Associations
+d36f744abcbace4bd119d4026d3af8ca373e2084,01 Source,nv,12 Assoc Recent
+ef1c7914b62fa599e099893999f273041e4f0c09,01 Source,nj,08 Classmates
+01e7f7db2c38588aeee6fbfd6f85b3ab3c6c1ba2,02 Sink,pa,07 Individual Connections
+4562b0cb2dc8e7f280e323ae537b7ba0ace34e79,02 Sink,dc,04 Coworkers
+d5e0da5a0ccc8b5b75920dd1dc2ddb0944c94cd0,01 Source,mo,04 Coworkers
+a711ab144838a5050b9c801b3521b5cb42958f93,01 Source,dc,04 Coworkers
+83b55c32d62e2db46d62f51b171eed78466ad375,01 Source,fl,04 Coworkers
+2adfce1866338af57fa0f6981350156618576cbe,02 Sink,wv,04 Coworkers
+aad75c2d4d9cdb2cd399b90c6fc809c90e14bbde,02 Sink,tx,09 Associations
+00a97c153eb83bf87481aa88274fb23ba9effeb9,01 Source,dc,04 Coworkers
+458eb0412e267d57f7f880e6989b1d556518f2c7,01 Source,ca,09 Associations
+209e6b6f726fe5f7004aead144a18405e93bafdb,01 Source,ca,04 Coworkers
+faca410ad485927247c03d9498bc576ce43c9052,02 Sink,nj,04 Coworkers
+d81d7b04f2b5ae37b94f3fc8695d188c0c4f9d06,01 Source,ct,04 Coworkers
+58c4d820feb48aa7a194e6dd06f9ffabacdfcde4,01 Source,va,04 Coworkers
+917c55af548c5f8cb55ca1138cf079346e0700ef,02 Sink,mi,04 Coworkers
+001033e684c58e3b66ee82c11f8e8e30292a7f4f,01 Source,va,04 Coworkers
+747c2bc3544797651caefe6a51825196466c319a,02 Sink,ca,04 Coworkers
+197cb8d3801f2d7089ef9fe7d1448e497f227acd,02 Sink,dc,04 Coworkers
+016f7d8af90017477bb0612ddfbf119148f45c7a,01 Source,dc,04 Coworkers
+3e963f8230f132a8186a7c4e6fdf610862d82849,02 Sink,az,04 Coworkers
+aa8bd30f15f6881e31ea504edaef4d511d838e85,01 Source,va,04 Coworkers
+c0c57805369ffae49259293d50c29bf76e5156cb,02 Sink,ks,07 Individual Connections
+457dd4bebadcf7b83ac620ff7eff1c9f90ab9109,01 Source,va,04 Coworkers
+94dcb7c6ee02c9ea24390fad7ad9e1f3bc7d2ad6,02 Sink,ia,04 Coworkers
+a82987f4b844eac4decb5c6de0c5cd1a0f4af44f,01 Source,ca,09 Associations
+19c0516b48f6addc83df6522e340cab70e2c8a47,01 Source,az,04 Coworkers
+ba2b2171d2387d2907ac47aa17b715e9c1b818ee,01 Source,nj,04 Coworkers
+4d7c11c0f1dde598374e41a531f8040092b762ac,01 Source,dc,09 Associations
+94ee6519ebe658082fa115aecf990016330d179b,01 Source,tx,04 Coworkers
+66006f8d133c8f0925aa72df812090d005d9c4df,02 Sink,ny,04 Coworkers
+33698a680676df7f33407b277ffa6f5ad634ec5a,01 Source,pa,04 Coworkers
+b5096b0ca860930d82f41ef052c1bca6644ff601,02 Sink,ga,02 Staffers
+b0da8529c4a8fb1482c91fd3c5119f83fb07ac25,01 Source,va,08 Classmates
+3cfcd27b48b3a6cd16600fee84fcd5d1eba07309,02 Sink,dc,04 Coworkers
+91712491a5c02432e2d3d18e043e63e6c6c0a9a1,01 Source,ga,05 High Donor
+4dd92af1b3617c23a390bbe91b5e5280eac6abb0,02 Sink,ny,04 Coworkers
+1ba43a47b871bc897cbac1d120e904571e732283,02 Sink,ny,04 Coworkers
+b81fa82ef55a7edd2a049d7b4ed73a29b43a3a40,02 Sink,fl,04 Coworkers
+976a8624611b919b355891c7224232ab2853931a,01 Source,ny,04 Coworkers
+64e305791c97ff9f9236f45112ea3bddc3bf3d57,02 Sink,oh,04 Coworkers
+0622779a1b3cbfc567768a3593111b3ff7870e7a,01 Source,tn,09 Associations
+492f54342634ba91f629f57925f34b6afbb79e3a,01 Source,ma,04 Coworkers
+275abba22450a24e0ff6ecbe09c5356eff718b0a,02 Sink,md,04 Coworkers
+f986b087cc4dde9dc7f8994ba9c0c244b207660a,01 Source,ar,05 High Donor
+a06521fc352c25d0b94e3fa92ba9f9d3f4248b5c,01 Source,in,13 Assoc Old
+da84c8805732d6ca457385b6510d1fda02033ac6,02 Sink,co,04 Coworkers
+a08a3035d5acf38d753b0e30e9c30be939a8f1c2,02 Sink,wa,04 Coworkers
+466211c6d7324a9f842a660a731aa3e10637f120,01 Source,nh,04 Coworkers
+f8f9639ef1874f8b13e40400c93e7bd50baab9d9,02 Sink,me,04 Coworkers
+5995af0d0ee358c58d08f8e91295bb58f6cdb9ad,02 Sink,va,04 Coworkers
+c69b212a31841eaa44a6293f2c391d2ff838b19b,01 Source,pa,05 High Donor
+3711181615bb46bf4e15194fb3c91451f580bb21,01 Source,ca,05 High Donor
+52b7d0dda2be52cd41d88dbb1f042c18ad6e5b91,02 Sink,sc,04 Coworkers
+18739061e8e03a851453e03861f30cc55e410dce,01 Source,ma,08 Classmates
+1639369d7cec0bab45c46814a26ecb112fec30bd,01 Source,ca,04 Coworkers
+937b176ec55f8b4210a4f8ab2625d35a38e2d85a,01 Source,dc,04 Coworkers
+0f68d34d4d9a64cefe23268c9111600f57f43ae2,02 Sink,pa,04 Coworkers
+cb7a6d64f2da611e4810f9da4e1355500713ce87,01 Source,pa,04 Coworkers
+7dd179bba978d9864889dfaf65398831c002ba30,01 Source,ma,04 Coworkers
+d7cefdf8cbe48fd48704115cc5e4f387b08a4f26,01 Source,ky,04 Coworkers
+819e95224e790bdcdbf7de6787146f4d05f9e8c6,02 Sink,ca,04 Coworkers
+8b37c9b2ed1f1f6c72f77e9ce19042adc9eec0af,01 Source,fl,09 Associations
+b9d6f7f2ca526503039373ae5a90635fdf231127,02 Sink,ny,09 Associations
+3c87df033682b8705fa9c970296f2fb38c164339,01 Source,va,04 Coworkers
+7e5820dfa57638d2637f68cb5f1f6d0606ded666,01 Source,tx,04 Coworkers
+20db4597b0ca5199402126f20b7e0a58f1939d20,02 Sink,ct,04 Coworkers
+cc1695405c54eab97077013ff71f2c8dbddd5cb8,02 Sink,ne,04 Coworkers
+cb652c8673edc6650dcea88259b0ced26a24a276,02 Sink,va,04 Coworkers
+78ae52f79b6dc2102a1f38435a1a0bf14b020b7c,01 Source,ma,04 Coworkers
+d1d37a10468d00c33160be6be701c25f444f4606,01 Source,ca,09 Associations
+d80a6383582173ae85fcf22b47d9f9711c4e412a,02 Sink,md,07 Individual Connections
+b0bc51852fc3b75049081512a14033f0e8a373ee,01 Source,ny,04 Coworkers
+e029badbe16703d0286db53bd0990ed7e0c94d0a,01 Source,az,04 Coworkers
+74b1063a23a7ae730b2f12ef8de4ea8ed7009c73,01 Source,ma,04 Coworkers
+183ea5fc616dfbb30907a9b22dd68c07dc31e5ab,01 Source,ma,08 Classmates
+e625d483d5d6f68eddb0fb47825d99270292c067,01 Source,ca,04 Coworkers
+7bbeb284f32e81425b45f170035a0f8567fde596,01 Source,dc,04 Coworkers
+9668efc972db33ba7ec262eaffaa9660b34801c3,01 Source,de,04 Coworkers
+395e1c0a75b596b33e5bc30cfd2ff261089d265a,01 Source,tx,09 Associations
+ba7bbc64c3ed5b9c3f4efbfca5f9cb3df4b3b84f,02 Sink,va,09 Associations
+170a87ab586859fcfde38f0aae253e2596821366,01 Source,de,05 High Donor
+e040996fd43d3ed70c070183efbdcf220c2af1df,02 Sink,ga,06 Target Close Connection
+2c7f52b85d8b485c4313fae461cff109da6640c9,01 Source,ny,04 Coworkers
+617bd981ae5eb171c4bbafa6d8c5962c780f3f96,01 Source,ri,04 Coworkers
+529683d20b8505620ef06a5b9c67c53ece85bd0c,01 Source,mn,04 Coworkers
+780e653d3359587b2bf36cdf63977d3bfcea2e00,01 Source,dc,08 Classmates
+bd26fe47c3e97f837c50e965254452fefe5c7f1d,02 Sink,ny,04 Coworkers
+8814ede119b6ed18af567f81f1cc98feb318dcfc,01 Source,md,04 Coworkers
+3b533900729f2e56d13f3bb31f4a9c9803558a29,01 Source,pa,06 Target Close Connection
+29f636f12cef06f9d304c9f8c946a2ae0c05b1b7,02 Sink,va,04 Coworkers
+ac832520ed289045d68e9029cda55e260f4a14f0,01 Source,ga,04 Coworkers
+32b66bc0b1caf1cb144b704d9fab58ff9ae2eed5,01 Source,ca,04 Coworkers
+2fa67ff037209854ca3d79e410fab4b9a88fe266,02 Sink,ny,09 Associations
+2cebef2e0a771044519ca20223bd5c22f710e524,02 Sink,ma,04 Coworkers
+403f528734dbe6a749f9f2ba56c1e1af1851b156,02 Sink,tx,04 Coworkers
+3711009e8cb2f06fcb67c52aa57ab34a92d426a5,01 Source,ny,02 Staffers
+1b289c869b8f6a953c1cc09ab2d72fabb3c8d722,01 Source,md,04 Coworkers
+c57919eb77937a4225c51cc5da37eaf53ec73650,01 Source,dc,04 Coworkers
+9b8eebb713bd3e8d790e2b867ae9ac332bb36f6d,01 Source,oh,04 Coworkers
+c3b1775657ca9e3bd5925b4bb8770905d458220a,01 Source,ny,04 Coworkers
+d1cf38ca32221b2d7f4a3b15d994aa84d5f22086,01 Source,ny,05 High Donor
+44f592077f83d91ed6c191465a55dda3556908df,01 Source,co,09 Associations
+e192d3571957cf1ca17e3bf9f481d04b6b37e41a,01 Source,nj,04 Coworkers
+b1b269788c19f2b7f49534adb1f66750509358b2,02 Sink,va,09 Associations
+1aa49669eb6b65125923d1e2a9bf0a2398f4bac9,01 Source,sc,09 Associations
+43e62681b1128fb5afb2b2fdf8a91bb7ed737466,01 Source,va,04 Coworkers
+4e61b09d6e79beca8e3a8fff0ec09ef017cb3fc0,02 Sink,va,04 Coworkers
+a19e982d269428f3cbb70fe998fc1f1af7435342,01 Source,fl,04 Coworkers
+847af28d7c5f997e5ce111c9402a8c26e49fc22f,02 Sink,pa,04 Coworkers
+aa154c954bf5199ae32e71d96827c7e2fc03d872,02 Sink,nj,04 Coworkers
+de80447908c4eec0a25ddf1fc390634befeede5f,01 Source,dc,09 Associations
+cbe722dc6af6f18eec6fae047190b1c602adb3ec,01 Source,ca,05 High Donor
+85b3e72d1556d939d8bdaecc0805cbffbf95a556,01 Source,vt,02 Staffers
+e2b2fc454e5b517794d68ec200f166afa765c28a,02 Sink,va,04 Coworkers
+d9b7e52ca6471d799b864ee51d4fd5fee2d17210,01 Source,va,04 Coworkers
+6b63c408e1555bbd496e512073a65e868ad783ab,02 Sink,mi,09 Associations
+b5be42e1419d42264b7a97c1c360d357b44da56f,01 Source,dc,04 Coworkers
+22e53062aada5d6080a60ccd20c321fcc114f127,01 Source,de,04 Coworkers
+f1af1ce491b7c651936a4c6fe9cdb6a49c166be6,01 Source,ok,05 High Donor
+4b87e5c62374443ae141280dc9f978712247ab12,01 Source,va,04 Coworkers
+5403518bfd2eb47b1a2ef4801dc45c69c416a64b,01 Source,in,04 Coworkers
+1c0b5f90f969e4e1a2c0290c8767b01defe38464,01 Source,il,04 Coworkers
+6da34d4678eefbcbcf5c3fc875a34a389c78a2aa,02 Sink,tx,01 Target
+051171528b25e4ee0d540ff692ceab64dcfe8ec5,02 Sink,co,04 Coworkers
+c3ba5509ddd0f52ba859180c11863af53acb6e49,01 Source,oh,04 Coworkers
+08cffaf58e0384dfc6e506f5cfb6fefb45289721,01 Source,nc,04 Coworkers
+dff95fefdb479014530da14f131ea55e29ee08e4,02 Sink,ny,04 Coworkers
+c0af4d746d989310b3e42ad617b6e85ecf19a123,01 Source,dc,06 Target Close Connection
+5d1e823b55759745d021bced65bb2b83f3783141,02 Sink,md,09 Associations
+090eae110b943613e1482cb8f980871be9ab2fc2,01 Source,ny,04 Coworkers
+732d27061dab107c4c1ff0181c54cc45510e7f30,02 Sink,mi,04 Coworkers
+a9c050d50b7930dbbb4cb13346c966843e464737,02 Sink,ma,04 Coworkers
+96dd2121840575cb9992089f9b7180fb16d4ae92,01 Source,tx,06 Target Close Connection
+cdd66a9a4005f561bc6a85534981eadb44ccad5f,01 Source,ma,04 Coworkers
+64618b15a175a84bac1d1551eab0a2df01ddaeb5,01 Source,dc,09 Associations
+4d295aeffa0b7ce28e0bf8212b156fafa89089bb,02 Sink,wa,04 Coworkers
+42e63c9dd67dc4742e3acfde345fdcb8c356afa3,01 Source,ca,09 Associations
+3d51dd5afb5abb600a5d74fc22466fa7f9d97286,01 Source,ny,09 Associations
+a173644b70b79a47ba13a9dfbf57ffd9b58ca929,01 Source,ma,04 Coworkers
+2ef5e3946dea103d92c784cfb0c4cb74d668ca2e,01 Source,nc,04 Coworkers
+9d4e4c63e972e79ad8b980130a0500d7cddc690b,01 Source,va,08 Classmates
+9e2f8724b4b3e931770026d97d2cba809905402f,02 Sink,oh,04 Coworkers
+cc8f074b095ab67658465bd82b76a1087b281d65,02 Sink,nj,04 Coworkers
+2412d5b15e1977c0780cbb692697530008ecd1e6,02 Sink,nj,04 Coworkers
+1ddcaf18197cd4dd6acd9aa6afa4a8b42e31a4fc,02 Sink,me,06 Target Close Connection
+2cd14447bc9806641d1ba353e8ffb871b323afa4,02 Sink,ca,06 Target Close Connection
+fe3206479c012085580cc52e00acc19a05b2a752,01 Source,nc,08 Classmates
+850504b8aa42368ccc16b4ccfd00912ca49d18cc,01 Source,dc,04 Coworkers
+5dba3fb7028e1f10261bc2206ce7c582a5fae590,01 Source,ma,04 Coworkers
+c165a2f7c522db164cfdd6d7c2e890312999328e,02 Sink,la,02 Staffers
+b2564b49f65a1f380fe11f1fca2f5690c42cf92b,01 Source,mn,04 Coworkers
+3d82900bb6476c725e915c3f54de80507e07aff5,01 Source,md,04 Coworkers
+42e88d0db3dc8a4dc57f367f6887821c4900dfd7,01 Source,ny,06 Target Close Connection
+0b276932938c04e7953825e28784d2728fb1d270,02 Sink,ny,04 Coworkers
+bab9e2df1b905c64a95240457b6fe1db496018ec,01 Source,ny,09 Associations
+023ad0fd9edb6de7f3713ec49c40e619a813d3e6,02 Sink,va,04 Coworkers
+7d6340521054fe933f9bf821baf529c92c1d1aef,02 Sink,ct,06 Target Close Connection
+4e0c6543cc1eb14f3507de00b56da8c87715e69c,01 Source,va,09 Associations
+f8dd7c7fbd9b9803aea7d641cf3c811016aa976c,01 Source,dc,04 Coworkers
+1615f82ccc7445cc16e1bec461184d481f1fd8cd,02 Sink,pa,09 Associations
+d5d5d2072f8f34abdc27cca087cf7c342710600f,01 Source,wa,04 Coworkers
+161c3608984ce5d161368c17a279928f7a338a7c,01 Source,sc,09 Associations
+0735b414b4e2bd909f266d9eee12592613ca874b,01 Source,co,09 Associations
+306ba09a371af63c2b6002aa4bf14e3e7d8325b0,01 Source,va,04 Coworkers
+5fa5129e6954f4d07533e3bb79ea079aad62bd2b,01 Source,md,09 Associations
+b83f91ed8e967c82e44959bc15eb55417dc258c5,01 Source,md,04 Coworkers
+341f187d16475ac76ba60fcb18ca2b34bcad66fb,02 Sink,md,09 Associations
+f677adb890314a30c9a6ff6a1ee6ccd83d1deb31,01 Source,in,04 Coworkers
+5be524478ccb36ffee3653036be0e6d3cc5ffb25,01 Source,ca,02 Staffers
+40825b3fbaec28515d2fdad302f1abe6906f6e13,01 Source,ca,04 Coworkers
+790111607950bc17b7bbb2d12fd5b020a860536f,02 Sink,il,04 Coworkers
+3ae486523ada732e17c971555d3dbc8d60de7894,02 Sink,va,04 Coworkers
+14dd659516ed9db802df8dfca848eecdeb2b5f52,01 Source,nj,05 High Donor
+8b8301e4f586a062407181508626a10d0bffed66,02 Sink,tx,04 Coworkers
+10e1860f67b70f792e9463a154aea19cfb8d0937,01 Source,ca,05 High Donor
+a6a05603b3d98b76715e534bd86be41ab64148f4,02 Sink,sc,04 Coworkers
+f5b2dda58353cca7ba0f845c4a20e9254f547850,02 Sink,or,09 Associations
+37fb9ab8f6d8a03dbca608fd0a1479c3105a9e34,01 Source,wa,04 Coworkers
+363816619a9c2bd3c7acbd72683a11b7af7674cd,01 Source,me,09 Associations
+92b791bc796879541680a1887d72e4a890ef02f2,01 Source,ny,04 Coworkers
+f66d69c7f046481348feed221dd56005d63c7983,01 Source,ca,04 Coworkers
+e9f6102230018ea7eed29cbfce7a48d143197081,01 Source,va,04 Coworkers
+55b2e1dcdb9588adb71487dbd29c0041ae3ced92,01 Source,ca,05 High Donor
+1712327e59678222583ad81ce67b79dae56cc515,01 Source,wa,04 Coworkers
+b9430a4d1297fe6fc8fefa13ea8c4c0beeed66f7,01 Source,dc,04 Coworkers
+da700966df135e38aa39219abc0b6f63e7301187,01 Source,va,04 Coworkers
+2fd3d49e8940914fb10ce871bb33a5fd33f21c59,01 Source,pa,04 Coworkers
+ee758e9519c9916aa5ece77fd1826fcd11366a1f,01 Source,ct,08 Classmates
+de37c8ea85c61062952667d08767185bf8c0da2f,01 Source,ny,04 Coworkers
+aa4a66f44abc09d0e6333bc7c8153a93f6bbba40,02 Sink,mo,09 Associations
+2388be3f4b8b624dfcbf95eeec97b40b866f8841,02 Sink,dc,06 Target Close Connection
+2ecbc233af80a2331ccfe356d695b7117580f751,02 Sink,ny,06 Target Close Connection
+3cf71056566a8b4afa3f53ea691522da27a2ceb4,02 Sink,md,04 Coworkers
+4757fa57a496bb768466758029f5b9f0a3889455,01 Source,ny,08 Classmates
+cd703cb2c189c3bdab9b637bfa9b9ff37138fbcb,01 Source,ca,08 Classmates
+a7093f4398d3cbc99f5ed923722d208d5681cc79,02 Sink,va,06 Target Close Connection
+36fa8af7b6c4f6f04da014f9e23093067478c479,02 Sink,ct,04 Coworkers
+a2712855562e630d98284cff1e6db236104a345c,01 Source,dc,04 Coworkers
+73e948ef3b15a296494973e6bea731de66624e91,01 Source,dc,01 Target
+be470e1198cf6882ef0bdd6debce0f185c46e863,02 Sink,ct,06 Target Close Connection
+d63b5ca60c54d665cb73fe8b3bda73b45b192a29,01 Source,md,14 Other Close Connections
+36b320d3270bb2ca7a94a6dc49d99d3e5cc8afd4,01 Source,md,05 High Donor
+2dcb3040da389994c1f2fc65e31eb742102271d5,01 Source,nc,05 High Donor
+10ecdb6f1f1a97bbc042258cc06d6fa05995b874,01 Source,ca,05 High Donor
+e5e82f33f7839e161a68ca24d4cd99ad6acdfcab,02 Sink,md,04 Coworkers
+fc97f64690cb2db02362ce51243ea6336bfdf2c9,01 Source,mi,04 Coworkers
+8a3fa658d251b1cf3fda4a71a20f5b97fff2dd97,01 Source,va,09 Associations
+1333ed830e0cbe34e26313a80cc785aa33319fe4,02 Sink,ny,06 Target Close Connection
+059758a9c7e7e58f7781f2cf3a8bdc80f088e58c,02 Sink,ma,04 Coworkers
+baaa3ac40c73363ed5a3c6397d0bf7a10966dd30,02 Sink,ga,04 Coworkers
+c2915411b8aede2a63c280e1ccd6a56318dc742f,02 Sink,sc,04 Coworkers
+ed5c4581d08b4b4d5bdea7c5ddcb7fc6cddf6ff1,02 Sink,oh,04 Coworkers
+8fedbc47e7db713ab2c931ecc6bf264756145d31,01 Source,ma,04 Coworkers
+86af8914e60fdb2143eb5225cbd8ac0963e68511,02 Sink,ct,04 Coworkers
+bd08b410b3e71739f6580b29cd77da56e168b63a,01 Source,dc,04 Coworkers
+a2966fa76d27f03cb3b15cff138682b2b459e85e,01 Source,pa,08 Classmates
+cbdac51a85c738a79d53dae3a7a0f5c4f5c3d91f,01 Source,ct,08 Classmates
+3a878599780b621ef560ef6e1e37cd9b1b04b89d,02 Sink,pa,04 Coworkers
+d99bb0cc73c2aa8955eceae61b8f51b4f38b927c,01 Source,fl,08 Classmates
+b609ea8d77faf557c471acc6c5362c48945ce2bd,01 Source,ny,04 Coworkers
+0f8619a0310d0ab7502d5f30891d31f0a4d27138,02 Sink,ny,06 Target Close Connection
+3198f07ad80a6b8dc0103097da563d9892066a79,01 Source,co,04 Coworkers
+eae43f025d69f92ef7dd6775d5891dd618dda81a,02 Sink,ma,04 Coworkers
+ebc56b7174ed861dfee0d1a5ac236b2144bb36e7,01 Source,tx,04 Coworkers
+51ab8d498799524c41f311c8501ddf5ebf054896,02 Sink,ny,04 Coworkers
+8e6b9aea2de8ad76086bc63901a4e9bab8c69a1e,01 Source,md,14 Other Close Connections
+3bb27f7b8e853e248fa77d2769dc35a51b0c0588,01 Source,la,05 High Donor
+f1019afb3711876543f09a2ab695ee3327342f54,01 Source,co,13 Assoc Old
+da6ee30a4c136fd78f72e2bc9c938668e234d0f9,02 Sink,ny,09 Associations
+abfd4546dc4baba933b9eee7286d3d7cecead497,01 Source,nj,04 Coworkers
+e0eec68ca979f12c1c83bb66a4d18c107343eb39,01 Source,nj,04 Coworkers
+58ca7e387e1c5188da2a5c1762ecc3faaecffa0a,01 Source,va,04 Coworkers
+227ae1527c616da95cb18bdc0d1bcf7f7b36a692,02 Sink,mi,04 Coworkers
+cdf9a4462f2febf5b17ae267df225e060c85b29f,01 Source,ny,04 Coworkers
+21354f4f32bc443c8bfdaea2749499a5f097578d,02 Sink,dc,07 Individual Connections
+fe3b7bc89a25ffaaa55c4cae34f6ebf1fa2cd711,01 Source,fl,04 Coworkers
+ddcff9be0a32c693b7193dab74705b34db215a2a,02 Sink,ca,09 Associations
+2186568325cdb806b8ef8b5a0103458b7eff3c93,02 Sink,co,04 Coworkers
+5218b56baf63e070876f74ed1f3de6f46bc77b7f,02 Sink,ky,04 Coworkers
+51808a0acfd0d0344c859b427a5a715cd51c3a94,02 Sink,wa,09 Associations
+01cb95641e0bc75f87ed1c7b0e3601a5fe2de0c1,01 Source,nj,04 Coworkers
+8800e2bf9a56523191f978da5c42deedeb8ae015,01 Source,md,08 Classmates
+d59faf50248aa6cb2c70bc5c6079b39f3874a58b,01 Source,md,04 Coworkers
+fd01dae982ff940d9668ed88a0466d7881a00c46,01 Source,va,01 Target
+f0686d8f04e5c8bcecdceca4aec0f664f92032a3,02 Sink,nc,04 Coworkers
+92cae9ec7f08dc00a76390990dc7ec46de96a896,02 Sink,nv,07 Individual Connections
+537bb37a60be7548ddd6e1272d74cd4b0b5692a3,01 Source,dc,06 Target Close Connection
+23dc0c3bd4c01833213dfbdbdf6ee8bc4f14e655,01 Source,ny,04 Coworkers
+00e555a91f825f75e151cc0d69e1f9aac7ee36f9,01 Source,wa,04 Coworkers
+28407611a132a37d7df21e497d9548586cb12934,02 Sink,fl,04 Coworkers
+b6235bdb41766ec0dc756e13c41292857ff99a30,01 Source,me,08 Classmates
+58c3bfa8159b2631741a864585b160e3fce86c67,01 Source,oh,04 Coworkers
+6bae3216e517ffa913c085559a8154af3a1598d2,01 Source,co,04 Coworkers
+085efe9be7f0d5c0831cfa2d20713ce2a6b73329,01 Source,ca,04 Coworkers
+925a1939e68fd491770e71ecbfe06e4663f0563c,02 Sink,ny,02 Staffers
+7b67d994e9b1bd6bf5f3df6ab3cfdc5f54b5bdd3,02 Sink,ca,09 Associations
+ec08db5cd3c87ff52beba1e559d302c94733d2af,02 Sink,pa,04 Coworkers
+181be8942644ca25a0abd1e6ce650b27300f5e11,02 Sink,dc,04 Coworkers
+47c147b11e8a73fd37dcbbbad0eae8ca8aea7d28,02 Sink,co,04 Coworkers
+50f348e964d0a8528ad7599df61195d875069548,02 Sink,al,04 Coworkers
+422b911ec177bbb07264a02666a8401776bab258,01 Source,md,04 Coworkers
+97657539cb368592a406cbbd4994c168670d03cf,02 Sink,va,04 Coworkers
+6a17d1d19c5f7df1afc10c09d273c0d897bf516a,01 Source,il,04 Coworkers
+cca8ae72b9afa68ae557c982bcd85c200e0c96b9,01 Source,va,09 Associations
+2f9116ac6c07090bf7c237263fc0452a589e6136,01 Source,co,09 Associations
+e38c10b397da23d4d1e941d6f17b2eae75f32efc,02 Sink,md,12 Assoc Recent
+ccdee75776625d4ccf197141c19a6610dfd0ebbd,01 Source,nm,08 Classmates
+abedfe0c0ea851de6ca31b76dd04d85dbb96ee78,01 Source,ma,08 Classmates
+a5beb2328962a0f67e666a289096f97e2a1c520b,02 Sink,fl,04 Coworkers
+73c9e2e14609b649a4530212e5250b07d59e6d0b,02 Sink,wi,04 Coworkers
+f0a90c76495d62f54f33e4a6bd6dbac2912ad7ec,02 Sink,ct,04 Coworkers
+ae2e7d1015d7c954a664c57b77a0be80034c8cee,01 Source,ca,04 Coworkers
+ae186aae2bc0bc2b762f45a5ab12657c9eb76698,02 Sink,ny,04 Coworkers
+7410951e274a2f453f3ecda8b4ee809038a2be2e,02 Sink,pa,04 Coworkers
+66c4decf0b76e435b30102c63c84c62d6d2e5d02,01 Source,az,09 Associations
+354b0d68ca3f8b74282ebf9c8c500b0b2f77915f,01 Source,dc,01 Target
+2bd025ee6606b666ba6bd91eec51f0ee0f8eb7c2,01 Source,ca,09 Associations
+743b36cfab4376f8f75e1d486c8f856a65c1a064,01 Source,ny,14 Other Close Connections
+e0b8d5f05c87aed7dff9d8afe927c2890eef54ee,02 Sink,az,04 Coworkers
+d829364bf115a1a2313243f848ac9cd213e23e72,01 Source,md,04 Coworkers
+d237fd70241e0885f50a746f5ae35140fe513dc2,01 Source,nd,04 Coworkers
+89d199d4d9c2d0636756d8a44c89a63aa2851e99,01 Source,ca,04 Coworkers
+6b0e49e5127358b50a10cdbba33573e461479228,01 Source,ma,05 High Donor
+6074e337330aaa3d9c623bd6903016e724f1193a,01 Source,ri,04 Coworkers
+37f06dee4f8ce5c072ecb57f84215fccad75ad92,01 Source,il,04 Coworkers
+01a5e1f072385c48e56006af2b834cc4cc9fcf41,02 Sink,va,06 Target Close Connection
+77a68748f2803ed7185a5d66733adfcdec493710,01 Source,ca,04 Coworkers
+5a5172978a798438315079914543e86e5afe34f3,02 Sink,md,04 Coworkers
+3f26be53a38f7063c398e5c0f55e686eaeea57b1,02 Sink,va,04 Coworkers
+08c4e5041b759af85a0d46336522fbd5a4d60f99,01 Source,ca,04 Coworkers
+defa4d87058b08a466bc91667dd526fc6a9aecb2,01 Source,ca,08 Classmates
+5bc3d86026705a1b5ac361ff47ee1f763db6f75a,01 Source,nc,04 Coworkers
+4391d921ada332395858800021ac73510355dfc8,02 Sink,wa,04 Coworkers
+25cfd65b065cd92b71c6d17177d285d47ac72a33,02 Sink,vt,04 Coworkers
+cd0663bd917a3fca6e4c347cf445c925ca2984f2,01 Source,fl,04 Coworkers
+0038b06b68e630cad3491228b7d7b9a7d5586376,01 Source,ny,13 Assoc Old
+294d718b2bac83ed8a5eb686ac105be3fb45f5cf,01 Source,va,09 Associations
+356e3b635dfafb229989b21b2a88b8f79285ec34,01 Source,nj,08 Classmates
+4d4eeb62a93994c6b86ff94d9a82bc24acf85ea6,02 Sink,tn,04 Coworkers
+c24f2bf9a240410677f5a43e5c24ee3b10023194,02 Sink,sc,04 Coworkers
+a0cdcb0cf38294e8129614e4d648c0961e70acdc,01 Source,va,04 Coworkers
+0d8be1ce2e33fe203066ac0ff774fd8eff050374,02 Sink,wa,06 Target Close Connection
+beccc0923142270247b82509e388829c03f5c2a9,01 Source,tx,09 Associations
+62e5c34a475aebde41f83e8502fbfe5a0356ee4c,01 Source,ma,09 Associations
+291bd2c0c9c4ccdde2b95fc58de1f32b1694c4f3,02 Sink,tx,04 Coworkers
+4c1b0e9c6acbc0800128a52cbe9ab36e5ba0e510,02 Sink,oh,04 Coworkers
+b5abf2232d67c9561388833f5510d613f500fb78,01 Source,ca,04 Coworkers
+b7cef6c5019863135d3dfdff0099b5902a93c537,01 Source,ga,04 Coworkers
+bae0dd2cdb4ccb734a2168099807586420d28f24,01 Source,dc,04 Coworkers
+f7b25c69b079790b7191fe01a6825c85f3ffbd65,02 Sink,ca,09 Associations
+caff7bbc01e7ca12c516eb1ef937e2dced67d8c3,01 Source,mn,04 Coworkers
+66a971a161345245defe037c9c641afede88b4c8,01 Source,ny,08 Classmates
+6c29e027720f1bd28e4f44e6aa4962724166306a,01 Source,ri,04 Coworkers
+54278a98631bddbea24a95dc3dbc0bbdbf691fe8,01 Source,wa,05 High Donor
+4142b6c8f21506ae2fc84ddff51ddd475abf7f8c,01 Source,md,09 Associations
+903f0cf9819c9fd47cafea136b89d50bf44051e3,01 Source,md,04 Coworkers
+2a751648486bccd3ce8862f950504c6ed5811eb0,01 Source,ny,05 High Donor
+8646d3bd52dfc4b2ee366986a1b4f13f94022e3c,02 Sink,co,07 Individual Connections
+c0961c5b7625cf66f20cc79e6d0f5558f5683cc3,01 Source,oh,09 Associations
+8a810d307ae1801941a9a178aadd6ea9a539271a,02 Sink,ga,04 Coworkers
+61b1eccc63f547ebc847066466849bf6a8186ded,02 Sink,dc,09 Associations
+25c6de0d629ae172132045e5774c3d4f1ef4790f,01 Source,ny,05 High Donor
+9749daf653078da9e52863c9afd6fe7de50b8fc9,02 Sink,ri,04 Coworkers
+2fe1f8b3ff8f14fb68e475acd2f7bd74b302cbcf,02 Sink,mn,04 Coworkers
+f78c187666e925488fdba19c56bd3f50c63757c3,02 Sink,ny,04 Coworkers
+0cc83c82e8c9d8e07f6d21c86f2bfa238df6b6ef,01 Source,ny,04 Coworkers
+293167550e97c832838deaf92e1f3658a5922aed,01 Source,pa,04 Coworkers
+510124743b10ff2841aa6149c1740ed640976c88,01 Source,nj,08 Classmates
+407c0f111b6bc57e2c3ba518874d13fc2694012d,02 Sink,va,04 Coworkers
+80e2df55589a6ea6cf1971e451ef3797024215a8,01 Source,ca,09 Associations
+7b6b0ef1b643c59aeb6c69c74c21ca93cfe691c9,01 Source,nj,04 Coworkers
+cc9be6e06f8abc625a4e796fbc37309268a67094,02 Sink,ma,09 Associations
+59cfcb45e3f80d60251246cee26489129a9b81b9,01 Source,ny,09 Associations
+1b16f6122d0c988f4f2af4d333a21f070835b8d9,01 Source,ny,08 Classmates
+ef3570af58b303d72080e502713c877a8430c45e,02 Sink,ga,04 Coworkers
+e4805f8c7fc3ed6490dc1bd1410ed63811d8ad4e,01 Source,ca,04 Coworkers
+d745593065968c95be8d5c80a9134d773b1d7ece,01 Source,in,04 Coworkers
+510aaa93382220f85cd6a6ffef9c141274d16742,01 Source,pa,04 Coworkers
+ce60c2fcce3aaa172b761a046202b622097c3fdd,01 Source,de,09 Associations
+f63bdb05e3a3d4c8c474ce21930ffcf604ffa3cf,01 Source,ma,04 Coworkers
+f46cd4681ab233d0d0857b24ccb2b70216de39c3,01 Source,nc,08 Classmates
+f8a6674de8c4d6e94d7891466d8d25f5d9d21770,02 Sink,pa,04 Coworkers
+e8e7b821832b188563bb46a2e7390499b3d02edd,01 Source,nj,09 Associations
+d0646b9cfbccc6d7e59d9f405d5899e99fb7dd52,01 Source,ny,04 Coworkers
+312e53a15288f157afe74c59ce4f2a3d3cf76ffa,02 Sink,ma,04 Coworkers
+f210db02bb9e4897e001484805d58cafe3c18815,01 Source,ny,04 Coworkers
+cffaf11b414d66feed95d210117423ccc5b89ee0,02 Sink,ct,06 Target Close Connection
+4c000d4bc8756c72f34a2df9e022f011985e2eed,01 Source,ca,04 Coworkers
+10fe1f2fe7a7ef77ae7b038613769cb2ca9d08a0,01 Source,va,08 Classmates
+083666e18078cf87e3fe97f5c71cb4cfdfeb2c55,02 Sink,mi,09 Associations
+ed7e0e8c6f1af36770f70725382d622ee4ef5d96,01 Source,oh,04 Coworkers
+15d07dbc683363d25e72e679f4abbab5214eab04,01 Source,va,04 Coworkers
+03ec0a2763a6665e0d9a274e7250fb53e731c18b,02 Sink,tx,04 Coworkers
+b35692aa581b1c83871852ea53acb5fd9595b7c7,02 Sink,nv,09 Associations
+0cf30bcc8caee7fcb10dadeba4bc39de73672e9f,01 Source,md,09 Associations
+d1ec06147f4c5d4d343a0c9e2ffc67e56a66991f,02 Sink,co,07 Individual Connections
+8e058904cc5e6e8ea54fe07e03e10e682d4f2fc8,02 Sink,in,04 Coworkers
+ca2e5a002b676df85781c016e078ed8bae0d56c3,02 Sink,va,04 Coworkers
+1dc2927da0b995223ccbe6261252128ba9e64796,02 Sink,ar,04 Coworkers
+07dd8ee5d507c4554e725d5e5462b7f47baf09f7,01 Source,ny,08 Classmates
+2bba5269aa73a0c73bc772b612dc2f58a0e6f257,02 Sink,ut,09 Associations
+19b833a3f7a13735d754a4d6d47e5e895bd7e6fe,02 Sink,ga,04 Coworkers
+f01f06f8d09d4e16b441c99e344297b435ba5ac5,02 Sink,dc,04 Coworkers
+1e5fa0bb11c71157a146e1ca98e987ba12f346a6,01 Source,wa,04 Coworkers
+956a7933e22b46050fc7a4791a32ee4fad273c50,01 Source,ia,04 Coworkers
+1ae9f65aba5958ad3d40c9f71db9541639e1491b,01 Source,il,09 Associations
+77b4539a9a8e5ef0e8b318041a142ee2bb8a4922,02 Sink,nc,04 Coworkers
+7a9912204bacccb86204cde51fb1c84b1ccf6489,01 Source,fl,08 Classmates
+756eb4b278b3f79ba2198ea3acccbf3835413a89,01 Source,il,04 Coworkers
+be0696454d686d2d938befa3a55a2b30a85727c6,02 Sink,md,04 Coworkers
+3d29976d732577c8df27a8d4fd02d85729da36ba,01 Source,fl,04 Coworkers
+b91baf97b040d2de9427c6962c50ecc042965c6e,01 Source,or,04 Coworkers
+85c8e4ab3eeab16068b70e36b494b1804e8595fc,01 Source,nj,02 Staffers
+fa73c42322b7547ec9c99a8d828e248361083b83,02 Sink,ny,04 Coworkers
+909b278c5fc545d2c5bb2544e99ca3082c3c1c6d,02 Sink,va,06 Target Close Connection
+cbdb0663b8bc805707e54289168c8770880019bc,01 Source,ny,05 High Donor
+39df6c46658519547b3edd6558b2bbe03cc73c3a,01 Source,ri,04 Coworkers
+d4c76ba9ae4e6ee5fc222c2845c54d193f26b144,02 Sink,md,04 Coworkers
+c7ba6d11da66e90e10c55cacf233b7d1345cd69e,02 Sink,ny,06 Target Close Connection
+bf07bd715d9941585a612890f12070c7c61a4012,01 Source,ny,08 Classmates
+2283b74b518fc0f029a11d4f467ac2536db5f24f,01 Source,ca,02 Staffers
+e14411f5c96c05bbeda8ce7d4198d3c71c7f8598,01 Source,ma,09 Associations
+746726bf23b3327da2cc505b672c9a915ba2bb56,02 Sink,nj,09 Associations
+7839759f21aca0521fd80027fd8f06b871c24539,02 Sink,ny,04 Coworkers
+5d7e4570db1ac1ce7046e9105e16757b0e72f1bd,01 Source,in,05 High Donor
+2a9d20086e6af0e81cb24ba964dabfb3aafb2b65,01 Source,dc,04 Coworkers
+63c3dbc6ad6c297756b1e1d08b4739707dbf83f1,01 Source,ri,04 Coworkers
+8bb3c40637f7eb8f8152ff7403ac53603cda48bd,01 Source,mi,04 Coworkers
+5e41af88cbf754a52e300687101fc37df6392324,01 Source,fl,04 Coworkers
+31f3fe58641377ccdd6e7fad31851f18ef2136c9,02 Sink,pa,07 Individual Connections
+d0f870c4be5140c50fcfb0235b712779db3ef704,02 Sink,va,09 Associations
+b258e6a6647cfaa2700b8530a11017cc64d8f5df,01 Source,md,04 Coworkers
+4d63cf6d8166729256a75d23b1b98dcffb75847e,02 Sink,ny,09 Associations
+02248ea4128e645052e3790ed8e7287bd1130556,02 Sink,pa,09 Associations
+a2f4050e2d9fd2d443827909a511cff0c58abb56,01 Source,mn,08 Classmates
+a236926c77b35f872b65cb74408d7cd583afba6e,01 Source,oh,08 Classmates
+f050888acd5321deb1d4783f0ebcc2b5121821d2,01 Source,fl,04 Coworkers
+758adba860f8ac6a4d38917665f2596edbc4cc92,01 Source,tx,04 Coworkers
+3b4898c57fca7aef196973f62486667effe0cff2,01 Source,nc,04 Coworkers
+3db5f7da1ac507424bf346e3443634d5532227e3,01 Source,co,04 Coworkers
+c2303f659109a5b4920dcd635ee25eca13dba41a,01 Source,ri,09 Associations
+1a8234b05762e99b1573a24ffde5d43d687f5793,02 Sink,ma,04 Coworkers
+7bd359639df13b1f4afee46a47f437484e0f664d,01 Source,nj,08 Classmates
+7fb8d490a6698afc9bde5094a886a8190731bc5d,01 Source,tn,09 Associations
+24145c66cb73613bb933a4befb1ba91dd0bcf4bb,01 Source,md,04 Coworkers
+6e32edea109ed93a154fe1e790544b9c7c40019c,01 Source,la,08 Classmates
+0a793c72ab601323fafc141bf7a8c873876345b7,01 Source,az,02 Staffers
+53704c558424f90ff996f7ff9357bd4cdbead4da,01 Source,nv,09 Associations
+b9703bd0df2b56dade63a07f12349927ad209f83,01 Source,ny,08 Classmates
+01a071d3f0ab12cc4b9297e1f40cfe6d227c9512,01 Source,dc,04 Coworkers
+f89cf21f8e70e167be8ea91c0982098566f151d0,01 Source,ca,04 Coworkers
+cf6b6e2df30a2d60fdbc99904984d9ab9cf04846,02 Sink,ny,04 Coworkers
+8cb464d8ffd84340a395b6144e27e7e1c6c19e85,01 Source,nj,04 Coworkers
+52ab36aad5898e5fa8df7db2e02fd86d9d8e7f64,02 Sink,il,04 Coworkers
+8953eba2e75964b2d0ddf3f2c06048dc8cc4bc0c,01 Source,nc,04 Coworkers
+e15c82f47a1a38ed8e5f08cbac69c331b518ffd9,01 Source,oh,05 High Donor
+ac7e5343b7acc72b4c8a247feb043b033625ee94,01 Source,ny,04 Coworkers
+f20df99f68a1a1ad5a21d1b7a023aa404bc4ccbe,01 Source,dc,06 Target Close Connection
+a12a9c83b83efdb3c38e705fa9b6e81e50ce9b29,02 Sink,wa,07 Individual Connections
+f5376adcce8be9631dbd84f7c5f59628844818eb,01 Source,ca,09 Associations
+ac2cd9b35673540c3fe22d5b937bc1634350788f,01 Source,nc,04 Coworkers
+afecd3d28402968758d5a0e7e2cfc08ba99a897d,01 Source,nj,04 Coworkers
+4958499fcf1ae6473351ff370d8bdf5a09587bef,01 Source,ny,04 Coworkers
+959d35f1f6d7413cb426cd66862787207f6ccefb,01 Source,md,04 Coworkers
+4ea8b74709d0c45980e03e972bbbca1a20290b94,01 Source,va,13 Assoc Old
+0d5f068731f33ee96d474fde2e9d049ff2e47433,02 Sink,nj,06 Target Close Connection
+87d9a66162ca5c6104053c54ed1ceed95e71a816,01 Source,fl,04 Coworkers
+767bf1d3dfd11a555bad6a1b889ed3c586a23c85,01 Source,ny,08 Classmates
+3bb0b0c80d4f79d9753a5ae50b59444c5738de41,01 Source,dc,04 Coworkers
+40e3b4237526206c0c0ec63f2cd524c17fc10242,02 Sink,dc,04 Coworkers
+87ef7bc5426443c19682b2ea4af5cc1ae006c1e9,01 Source,ma,09 Associations
+18343aa13045b69c908fe9504ca0d27a0b30d527,01 Source,md,05 High Donor
+ba31c6f51132f8a3506634683b4a131a13791cc8,01 Source,ny,05 High Donor
+65922658409b41a3ea46613142f727601fb61e61,01 Source,pa,04 Coworkers
+2ef5d2e23221543cf2eb026dd3a89b078c318fcb,02 Sink,co,04 Coworkers
+a4bce53758fb6c303e6218a32c347ca3facda418,01 Source,md,04 Coworkers
+e6645de6300a0d09091494bb684ce11963918e9e,01 Source,nj,04 Coworkers
+adeb80fec4e4205aca7bd6ad3bf9878073a5d709,02 Sink,ia,04 Coworkers
+a685e9153f4623e23ea59d23157d36bb5a658b8d,01 Source,al,09 Associations
+b66c01ba8de7f38797adb5c1911f61d0635b076e,02 Sink,va,04 Coworkers
+50c35e92de62cba8ba2c3cc1280279439936cfa8,01 Source,tx,14 Other Close Connections
+4fb0c16049721e93eb835a770f37e629650a864b,01 Source,fl,09 Associations
+6a4d3378b669763d66541c5cd966c3c06077e350,02 Sink,ma,04 Coworkers
+a46a1d6060d280ba4b0c067d6ec233f0aa38328d,02 Sink,mn,09 Associations
+b7888c48f7347e5fa47342ecabd6bb8989d22ba9,01 Source,md,04 Coworkers
+e3990aae31da379ca5850ed4a0dfa17d20e11def,01 Source,ny,08 Classmates
+e5d8a152ad63f36d7f12d3ae558f535eb8303d49,02 Sink,co,02 Staffers
+ae8f544bd4f7f97016b92385cc96bc1df30a7273,01 Source,ca,05 High Donor
+95a60d9da5eb2b9bc6ece80c14c84774c5f4ac43,02 Sink,ny,09 Associations
+49047c6bc0e9126ffc84e6485bd21361796858a3,01 Source,in,14 Other Close Connections
+1f6ccb705c4265cc2b29af73e65a2a050a92bbff,01 Source,co,04 Coworkers
+0312ff691ba6e6b3aba1b50d71cf96f8fcd49c78,01 Source,ct,04 Coworkers
+6a7458e64c4bacaf4f5747bd49d23e8b2f91c4b1,01 Source,ny,04 Coworkers
+80a6595c8af1e3e51017e091f00be7a54c5c119b,02 Sink,mi,04 Coworkers
+7b2a7758e422db287a83eec86ecf2cd469c0ce8d,01 Source,mi,05 High Donor
+474df9acf1ae287864579290a3b852c9dabdb4ad,01 Source,ny,08 Classmates
+2f6509f4eaa5ad9263a150133a31c03dbb7f12ed,01 Source,in,05 High Donor
+d547ed7370bf995a2e723f0fe002977b0d1aba5c,02 Sink,va,09 Associations
+f05daf7ff85f9fe0e584c12f929f7763d0061c0f,02 Sink,md,04 Coworkers
+a6971ea088418f9697f7cad8e4e5812200facee4,02 Sink,fl,04 Coworkers
+65da683d0a7358d98b12f1f5dffe260849c1479b,01 Source,tx,09 Associations
+e167a7ea8e1dd8d9791c81e5df8cd7355dfd7451,02 Sink,ca,02 Staffers
+f0cf372d6bd1fad4198ee8a240b2f9a598f8d439,01 Source,ma,04 Coworkers
+b10e880d55bcca1fe6262f112261f57ed9e566c9,01 Source,ca,09 Associations
+a18861923b6425755e0f9452fff687ffdaa576d5,01 Source,pa,04 Coworkers
+62bfd87b441e74dd9c0de1ca91877565d9552da4,02 Sink,wi,04 Coworkers
+760f0de8adefeb90571f1ed43d3b52a0048047d3,01 Source,dc,04 Coworkers
+22a4e13fbf842535196106c2ecdea31afc50aee8,01 Source,nc,04 Coworkers
+38e1ff23327631e80bfe0ca91f0dc5e0846450f7,02 Sink,il,04 Coworkers
+bc6c7979ed6f2730ac4944c2e0624befd7ebad7f,01 Source,dc,04 Coworkers
+894e963254ace6081ecdfe3c19208e84fb1a1b5a,01 Source,wi,08 Classmates
+632207967f4a8605b98377f8fb6da89e193e42a1,01 Source,nc,04 Coworkers
+ad2804194111e3c15eaaf537d2350b83da97dcf1,02 Sink,md,04 Coworkers
+0cbe2a4afbe4a19c3b6521f8c2eb480999765389,01 Source,mi,04 Coworkers
+4bf03063dd8a1af182eda432877faf995a9bd2d2,01 Source,ca,05 High Donor
+93eb28db9289629cee0522047f572e6184f92cbf,01 Source,dc,04 Coworkers
+0ab6b628c4bf6983c32865fadb96356b2855cf22,02 Sink,md,04 Coworkers
+1e6396e1af211605e2a12e1baf79b8da118d7180,02 Sink,ca,06 Target Close Connection
+4f99cd34f71b3d2e2d61e766f1d5b5383df37881,01 Source,dc,04 Coworkers
+381d32442511561cdca4951c4fc8bf99fe3be408,01 Source,ct,04 Coworkers
+f95a02d3213e8c5eb4e90ff6c3fd85a735c0d16f,01 Source,wa,04 Coworkers
+4279328ae0d6b2a1de8e766e7275f7409439caaa,02 Sink,ny,04 Coworkers
+f92188b93b977b18cbc0a4e7ab8e99a1d0cb9cfd,01 Source,nc,04 Coworkers
+9ac27d48ae99f4a8973dbb6259d0a98f323d38bc,02 Sink,dc,04 Coworkers
+8a9cf6507dfac912001f5ba88c194fc444df65da,01 Source,tx,04 Coworkers
+9aaf1e5f12d4229d0b7cbecf5a8395c1959d7ea1,02 Sink,nd,04 Coworkers
+0106e4575bb06eb2c4943948d602fa36a2ee1ae3,01 Source,ok,05 High Donor
+b1e6409de562d376d16184f7786d73966f59364d,01 Source,tx,09 Associations
+020afe26391610005543e747ccde831d1828bf1c,01 Source,ny,13 Assoc Old
+98015231be246a08722d0e8f81ae20f37b28fb22,01 Source,va,04 Coworkers
+7eda458d5a143a02c7ced2e8654f8be46b9179e4,02 Sink,md,04 Coworkers
+8f8caaa650f2716efa43b3f9bce871dac7c4c766,01 Source,ny,08 Classmates
+29ea504dcbbf8a522c8e83412b539d03cde27b2d,02 Sink,sc,02 Staffers
+dde91a7eb617cd327eaa29ebbd9d16058b6407b7,01 Source,mn,08 Classmates
+d91e2b052090ccfe3ca859c6abf74d46fbda4832,02 Sink,fl,04 Coworkers
+e04eddabe79af3239ecb4e8b711bf5b873fe3b90,02 Sink,nc,04 Coworkers
+8dc866d2c5102014747478f8bdd8fe18ff91a537,02 Sink,ri,07 Individual Connections
+b9255fa8804d6e3cc3f3397a98452ec51e01834e,02 Sink,nc,04 Coworkers
+7d0926adad9f418b25b4d3dbadab373f84cce188,02 Sink,fl,04 Coworkers
+0a4da11d02b2383b89e0984305edf79812c08060,01 Source,ms,04 Coworkers
+aae5bef17a8899dc3ff54f3706c4123b9da2c0e8,01 Source,ca,13 Assoc Old
+1794604fc800d8b66b0c1c2e58995ba57b76dc81,01 Source,nc,09 Associations
+0e62cff2c4ccddcd27d95e713b6a0684c474ac30,01 Source,il,04 Coworkers
+cfc165c409d45bc51c37f94abba136d85fe14d7d,01 Source,nc,04 Coworkers
+87f406fae743dcb92203056e95734d6a43b4bec4,01 Source,md,08 Classmates
+d9ac0c0f313f334ddbde910a7bc95e7c8a634a3e,01 Source,nj,04 Coworkers
+f75c9619a65953270cac0e9f7bc7bb9048885aa3,01 Source,co,04 Coworkers
+9020c305b867e9bd84fc261f77ed7359c049eb00,02 Sink,ny,04 Coworkers
+bbf05a21fb620eff3725cef646f72c8c48825d09,01 Source,dc,04 Coworkers
+b3bf9d9221beb9178c62559e4f588b9261407e03,01 Source,md,05 High Donor
+5e39be8f29e9df45958605645939714ff56005c1,02 Sink,me,04 Coworkers
+ea07756e38c779107aa5de4ef1685adbf73228bc,01 Source,al,04 Coworkers
+40e1470a57464ac5850f0f1d1f08bce64cd64bcb,02 Sink,dc,04 Coworkers
+a19b69009a338ec3f405c52f1cb10c9648241409,01 Source,dc,04 Coworkers
+99670593ed7a1319ab1ee629df3c17fb0c9743d9,01 Source,de,06 Target Close Connection
+dcbee5ab443fadadde7f8d368768af1fe3ba76e4,01 Source,ca,04 Coworkers
+e3288fb6815423ac1ee0af2a59a72887e7ecd75d,01 Source,mn,04 Coworkers
+f570a2669666a9a7f5dab5835d71aa2188492d0c,02 Sink,ny,04 Coworkers
+419da5484841251e74394d7c93b3e2b52d97b71d,02 Sink,ga,04 Coworkers
+baa74c1dc7903bbeca2fb38bc02266ceaf3bdd5d,01 Source,ca,05 High Donor
+303d8e99a29d2a4d4cf8259733268e251987df2b,02 Sink,va,04 Coworkers
+18033a82bdbd66971e4262104f8f48a67fc3150a,02 Sink,nj,09 Associations
+49daa9924f87cd32a7fa253ace92a4510746c797,01 Source,dc,04 Coworkers
+b10acefa78751931b8960ae59a6664939fc5670c,02 Sink,dc,04 Coworkers
+77d29e90d984351c7c3901e5bf8143791ba3033b,01 Source,ca,04 Coworkers
+7c896b83a1384cf2d8b0d853a22db3365f409e13,01 Source,sc,09 Associations
+6392570e4c8d3ca0a1927f75a12c8bf4ec654bdb,02 Sink,wa,04 Coworkers
+9a0a99e72daecc84c84727520575a83dec50abd7,02 Sink,dc,09 Associations
+67490946778c0582dd57b552cce9072cdef4654a,01 Source,md,04 Coworkers
+19d81cfc13eb005bbd83a2cf6e39a64582d174a5,01 Source,co,08 Classmates
+8171d9b704992791a7a963c3112b871daf17d55d,01 Source,ny,09 Associations
+321071b8d61c202ca43ac9596b5b8411bfb6ad3e,01 Source,ma,09 Associations
+1a8199ea74f61f77b96335dc3a46427d1bc7a5b7,01 Source,nj,09 Associations
+6d77fc5b4117113e68c7617e0b5ac304b05bac7f,01 Source,ma,08 Classmates
+224c95aba4f4e020929cc3e67fae39cb964d2acc,02 Sink,or,04 Coworkers
+f6ea7d7eea60e0dd0a5791dc1dfc65d988de5787,02 Sink,il,04 Coworkers
+8c0b3b208377e651968f156e48e1160249edda73,01 Source,tx,05 High Donor
+098832c8a3817dda9626cb021c5838144011eb55,01 Source,ri,04 Coworkers
+8d3dfbbd6149c25dc1c0fa470b73661d7a5488f9,02 Sink,nj,04 Coworkers
+60af84fa8e79b46eb4f441655a6b353318b1808f,02 Sink,tn,04 Coworkers
+a1011b203352708707c331736b29dfb9d12f914a,01 Source,nc,09 Associations
+8955f68631b0413922bced4fa82c410a1bd93145,01 Source,ny,04 Coworkers
+c97cfd0500be17e540a5b884414400a285a9652f,01 Source,ny,04 Coworkers
+23afe63bf5d3367a6f8b898995f646d6a8054510,02 Sink,nj,09 Associations
+fd9be0abe61c6899272d29aa37c2c38587605612,01 Source,ca,08 Classmates
+936ffa7095125455ebc74d4dd26e64728abf14bc,02 Sink,dc,06 Target Close Connection
+061c602940609febe7ca34b833780a4a024cdb21,02 Sink,ny,12 Assoc Recent
+08dd003552d2c339984fd6df86ca3d731a2b2228,01 Source,ma,09 Associations
+a8762e36d753f2fb87708177a2a67c5255140763,02 Sink,ny,02 Staffers
+aa16c91d74b1203c4811c537b0b9ade5e90caf55,01 Source,il,04 Coworkers
+3a203123f8ae469fb8d3b484aaa63fb32c84ad6b,01 Source,va,08 Classmates
+96b690473ab781772f56c422edc9e392c966a18d,02 Sink,ny,04 Coworkers
+2627d164093bbf208a22eae42b6072dd58516bb5,02 Sink,co,04 Coworkers
+6a41e892731b2a585497e884ee8ca9350e1ed250,01 Source,mo,09 Associations
+82ef8f16f87ac8d70f28e07e8a2fcbffd244412b,01 Source,va,04 Coworkers
+8f9e26c3bdf2d2038f91b1feabefea9d2e29044c,01 Source,de,05 High Donor
+f8187c234b86ec898cc804e65205d46a2bd686eb,01 Source,il,04 Coworkers
+5282e5d46907b130a080466685aa7afba91ccdb1,01 Source,nc,04 Coworkers
+64624579203d5205f4a9de415de415d7712cd0a4,01 Source,fl,06 Target Close Connection
+53dda3e75ec7f09b0ca9a5dea09da8d487a81445,01 Source,ma,08 Classmates
+635dd96e5ca9b5ae647998ee190510ba6e6b693c,01 Source,tn,05 High Donor
+fbc81adf5a114d2e0852d2906fcda425b547ef93,01 Source,ca,05 High Donor
+3871e2f9947cbdd9774a3d89b7c7446e51efeb4a,01 Source,va,04 Coworkers
+440dd477174833eca17df4bb4d685991f6ee7639,01 Source,ma,05 High Donor
+f2295a7c6bbb015a7983f2e027231ccaa28692aa,01 Source,oh,04 Coworkers
+7af75f7f9225c38357d4a44e0b250c8f21c3ed48,01 Source,wa,04 Coworkers
+fee8a0ab90d5f595da9a1d7e57098a5a9060c92f,01 Source,va,04 Coworkers
+91439264d158633bf76b7833c206791b39c70c5b,02 Sink,il,09 Associations
+046065a15971bd7581e538806022116ba8daeba3,02 Sink,md,04 Coworkers
+a48497fb197129456ea32ee3ceb02f2af651f09f,02 Sink,nj,04 Coworkers
+070ef71575e8cec6a2e21cd709c98ae9dad9c041,01 Source,dc,04 Coworkers
+9567a579461c9d48fba95fbb489f4ea731ab258d,01 Source,md,04 Coworkers
+e09feede68a006080addd661d58fc4c2c9f5cbce,01 Source,ga,09 Associations
+f7b68fb9b412ded07bb74d54eb99eaa11864e00f,02 Sink,ma,04 Coworkers
+b2c5b335183db77b1c45b76c27cfc38b042f1e32,02 Sink,mo,04 Coworkers
+b49ae8b1d7ff629a70e867a51e61a0fceaf95270,02 Sink,nc,06 Target Close Connection
+0f3c0f9706fc9b617af749d1b5d8bc12a55d0c03,01 Source,va,04 Coworkers
+e42b1a0a57e5c09a0f8a775b21968b40ef6be678,01 Source,ny,08 Classmates
+a144554ba799c043fda780542e6c4fe9e4227605,01 Source,dc,04 Coworkers
+641a9e315009062392ae7c35cca22d6435fbf2a9,01 Source,ca,08 Classmates
+79b296370d85722a8b13b3b46b7be0275b236cdd,01 Source,co,05 High Donor
+49ad86b8b668ddfb55d8b27c41f3dc6d7ffc9e1c,02 Sink,al,04 Coworkers
+84f12f37227bbe55c475b1fab7aa0ac9395bf4b4,02 Sink,ny,04 Coworkers
+818c9c7750c12065d27baabf0fe115dd77c0e6a2,02 Sink,md,04 Coworkers
+c477374aaa222fdd1349523c7b862b096878fd55,01 Source,az,04 Coworkers
+b177b769fe6828840f8b94bd68b7ba0c2ab25bb1,01 Source,tx,04 Coworkers
+c782aa865a7e8f3fed9524806b1ebab4a731d9cb,02 Sink,va,04 Coworkers
+17a067e24e22d60ac9a16945c81e07c6e162c087,01 Source,nj,09 Associations
+9db49052469200930c2efa2836eac817f420de87,02 Sink,in,09 Associations
+968d40a640cd58df8bd3c46f64c460fe2f325f74,01 Source,al,08 Classmates
+2d513a3346f97792b61e4d288b09760e3b5b1a34,01 Source,ri,09 Associations
+7da7ec11c413ed538af50b8fd64a128373ab15fb,01 Source,ca,04 Coworkers
+7d7dfe6c4747614f2479638a19a4d977a3415a9c,01 Source,ca,04 Coworkers
+4b8644fe08e44d23a660f66ab7361474d803f3c2,01 Source,nj,04 Coworkers
+a19ce50fc24271b54fa259a1ca304dea4a6a86a0,02 Sink,wa,06 Target Close Connection
+7a5e2a1bc3b8ed2d6b8597b7734d065165ae9ba7,01 Source,tx,09 Associations
+87e0e5c7c32423b45c9b1305bbfe6256c7a2c249,01 Source,ca,04 Coworkers
+b17046c9b33cc9e0c739bb6c740bd4d0596ce5a7,02 Sink,mi,04 Coworkers
+28b5813c64e11a655ee6a94844ed5effd385b52d,02 Sink,pa,04 Coworkers
+ca78b9661b3ca973c79de78e6abed9c789b30f92,01 Source,ma,04 Coworkers
+bf7d321a44da9a5ac788dcdaa568c1ab173b5783,02 Sink,ny,04 Coworkers
+6b01fc980e73c8a2e99e320acd4c24b77d1d9b88,02 Sink,mo,04 Coworkers
+7ba2ea5050b477dfb27535d3d1dadb3c10529d23,02 Sink,va,06 Target Close Connection
+c6088803c3e47ec4077e0c9ee2fcfa12e47ee50a,01 Source,nc,04 Coworkers
+e6e8acad4f93525905c7d22a6bb2337aa691a7c9,01 Source,va,09 Associations
+8d5070fe39113bce95761c40655d2223aff961fc,02 Sink,ny,09 Associations
+db1ed30e3e81fb66b5b8772fcd73b68820059100,02 Sink,ma,04 Coworkers
+0846bc8a05ff19efd639496e6bdbe220eec9d64e,02 Sink,oh,06 Target Close Connection
+dc119cc3662f695ac3664a390d0fc21d1b90e04d,01 Source,md,05 High Donor
+d10d6bb51283839a5248d706ff030eb7112d9a6e,01 Source,co,04 Coworkers
+5ad9c57329770c0e5d74fc39a610f2d25f0d43cf,01 Source,va,09 Associations
+7b926f3c3ed2cea3970d1cd3d2bdc820b0aa8d8e,02 Sink,va,04 Coworkers
+66fbf32484e29ab7d2e69e30c9e323a2a3d08508,01 Source,va,08 Classmates
+2ced770eaf20bf3b41dc04972eea65efb314b38d,01 Source,ca,05 High Donor
+0e88f4919fab5270ef22e64c433fc3922bd3c69c,01 Source,oh,09 Associations
+a6d9b2ef78495f6b123a6c0c4ed314e551113144,01 Source,dc,04 Coworkers
+7802c9bc0f205b6c4f3fb0f51094c0ea64cd18fe,01 Source,ma,04 Coworkers
+c3274fe6cbb58178641dcd815124fa1f29348d56,01 Source,co,08 Classmates
+582359077ea425381a777f86ea9ff62ca19577c9,01 Source,ma,05 High Donor
+b09f5fc5a9c7fe8c939dbeb28214b0ecf8ff1f58,02 Sink,dc,04 Coworkers
+ed220f9d2f36a7bbc96657c2e4b26718739794d5,01 Source,ny,04 Coworkers
+0dcc818e275629ed55918f25562fa06aad7e2a9e,01 Source,dc,04 Coworkers
+afa49ff234a5eabc82a52619cc809fef7139c501,01 Source,md,04 Coworkers
+43e31b885701138a99f7f8a1927268939c212873,02 Sink,va,04 Coworkers
+e213d2ade1ee274467f7061d7a5fb26f06bab2d4,01 Source,va,04 Coworkers
+3d710524514029e42129e2eac86def51e1941f2a,02 Sink,ca,06 Target Close Connection
+7dffb31306b4c30abd0ecae90420d997d272e0be,01 Source,ny,04 Coworkers
+284a76bb44f4e24a39741f7f270059354f8029b2,02 Sink,ma,04 Coworkers
+9bfc87be684ed090ba2927e9e763609cae47b411,01 Source,mi,05 High Donor
+051233d0f9d2dd1ddb6bc3353d2b417060aa37b7,02 Sink,dc,04 Coworkers
+febdafaf2dfe4f43c66d73faf3b52ec917c1f6f8,02 Sink,dc,04 Coworkers
+27e0794899bc79d8f1c9bd3df0d11e2ee420c03b,01 Source,ks,04 Coworkers
+96642f5218c372419ef43148d98939151815dee7,02 Sink,ca,04 Coworkers
+633566d2526a0eab7fbebed557750a137a914f2f,01 Source,md,04 Coworkers
+0261efaffb28486e08c559ddcdf926043747eb02,02 Sink,tx,04 Coworkers
+ae2577af5fc35856cc27873d7e93b7e199a6abca,01 Source,ny,08 Classmates
+c90ddb3dd7ce4daf3c3cee29883320cd192c89e9,01 Source,ca,04 Coworkers
+58e58da9a1fabbd9e9c30334b3b8b95964e89d51,01 Source,md,04 Coworkers
+3fcfee03296d911e92e8876eaf9dc4c8f92d914d,01 Source,pa,04 Coworkers
+243349d9d995294d3ecc2d66491e3bb26f4d34b6,01 Source,dc,05 High Donor
+471c29533e95e4f11ce6dfa62cf6cca3f0da9014,02 Sink,ny,09 Associations
+e365e00db3367f2f125b17b43d6bf1d90393f119,02 Sink,nj,09 Associations
+bb21be878419bb97877502b0c07cff94c6580c62,01 Source,dc,04 Coworkers
+2e5afa2adc0affae294deacc1e5cf0773c6d6c4f,02 Sink,ca,06 Target Close Connection
+53788eefe008a05ef690b34a3bb06aa1601ad605,01 Source,ny,08 Classmates
+a7a069860ad437594ea368c7b66971aa3cbe24bc,02 Sink,md,04 Coworkers
+a1305fb607977e632f32925e8c57a635dfdda7e7,01 Source,md,04 Coworkers
+9ca07b7bab293ac392eafead8870a9c8e296e163,01 Source,in,08 Classmates
+b0ffe67bc5cac0f71c95feac8309a1213c248f33,02 Sink,mn,04 Coworkers
+b98b9ae9f92ae36633df223b253e89e0b6b5d746,01 Source,fl,09 Associations
+9dbb30a3c8fda3f2e8e37743b14012bac674be6a,01 Source,fl,04 Coworkers
+6f77016a28ac5ad6698f90387099d00e35279238,01 Source,ga,04 Coworkers
+671a6fecc75990019da3f2e8366bcaae034324c9,02 Sink,nc,04 Coworkers
+0ecdbc216eaa529fc28eb614f507dbd2c73088e0,02 Sink,me,06 Target Close Connection
+0d50b6ff3716f6537d6f0cfa26c52edf6c124c65,01 Source,il,08 Classmates
+4ed2ab30929ef975b6fef680b9415e152a9fc7c8,02 Sink,ny,09 Associations
+3783826971985905e8874ae97dc1a7c731110071,01 Source,ny,08 Classmates
+d5ec92dc63b7c6b8561266096bb47e2685cb43a0,02 Sink,wi,09 Associations
+a97645a75c827f8773a98a246acea6a1800f8189,01 Source,ny,04 Coworkers
+1c257f5c7c2defe9529865d14ab0e0d4819b17ed,02 Sink,fl,04 Coworkers
+85049bbcd129296ca0e8491c91cf44e2bd843e71,02 Sink,fl,09 Associations
+c008c934db15497925c8b3494daa8f5598fe2fb7,02 Sink,oh,02 Staffers
+f0a8bce80b14ead407b99be7c1a7e8906d52983a,01 Source,ca,05 High Donor
+f86ee05dd2a6d23dded51a151ac0ff306f2464c3,01 Source,az,08 Classmates
+bb9697b37974cc8060ab161fbca4b03829cf1631,01 Source,tx,04 Coworkers
+e872df0f810e5893a9de740345993ca3d7fec727,01 Source,ri,09 Associations
+10bba10a7a58e9d766f944a40ebade2fd539ab19,02 Sink,il,06 Target Close Connection
+cbd6ff42e44320109c65764a9cfabbd5c83ec329,02 Sink,az,04 Coworkers
+aedf90745e6f472028022340526bb5193e368f5a,02 Sink,nj,09 Associations
+2866af02b67641a7a864966729a160fa602d8646,01 Source,il,09 Associations
+166cedb5ecbdcc03a6eb41a5e8ce7a5d74b1ff32,01 Source,dc,09 Associations
+7b5e01ad78f79d91ac8003ac2d576eba3db7d28a,02 Sink,wv,04 Coworkers
+64605cf0397dbed1adebeba1e3d7acf99e277f39,01 Source,il,04 Coworkers
+577148fac11f72fd1c2b783e12038f173ec48088,01 Source,il,08 Classmates
+1283da0cfe0c8ed6dfa437001862ebfd8df5f481,01 Source,ca,06 Target Close Connection
+4813910473909ba836ca9825503d3b4db7e35c8c,01 Source,va,04 Coworkers
+e388dba3827456575b0616ee4e887b238f42ff4c,01 Source,tx,04 Coworkers
+4bfe76b68ce216716a70e908b0752fa4bcba7a13,02 Sink,in,04 Coworkers
+143ced43b3f524cf10c285ea0603975c58f38c4b,01 Source,fl,08 Classmates
+9f0e0b13815bde47802a67713523e17e5dc2eb49,01 Source,ca,09 Associations
+8b9061eafad175ece198e33d8f195dedc401208d,01 Source,fl,05 High Donor
+c06a2a30f38777b2e03d27f40314da6c10968e64,01 Source,ny,04 Coworkers
+f8b9258060cd1b4d32ec039c53a4b9b767e63112,02 Sink,fl,04 Coworkers
+5dcd443e5bd8ae056e6f30b17006b809526ce348,01 Source,ma,04 Coworkers
+3b8f8fb5f529012b43d7c42be0ebef29c3cd9cbd,02 Sink,ny,06 Target Close Connection
+835de6142b98472225a79fc68b6a5273f7d8245b,01 Source,ca,04 Coworkers
+dbc59979efc9b8b792fcb315cc9c41b962d69a1d,01 Source,ny,04 Coworkers
+4aebb3e4ed52c5e0c80a936f44458fd0b0cb9afd,02 Sink,tx,09 Associations
+8317ba2a455fbab23e550b8d7e1ad32e5d346b7d,01 Source,ny,08 Classmates
+082ac64d6e9fd74773be8f0d8f8e4428a0b5b32f,01 Source,va,04 Coworkers
+9b35b09c78b718f47f37e4d8b9bb673c68cae969,02 Sink,az,06 Target Close Connection
+a3c63eb914dd89eb9286d7c74cd7f0d083f89d3b,01 Source,ma,09 Associations
+ee6616589d27da500759014a6c067237a4adf8ef,01 Source,ny,08 Classmates
+0f32f6c0256ddf6f896e49cc5b06fa2c5f1adde4,02 Sink,fl,04 Coworkers
+0f3aad32907a5d30dad1cf43d227928ba0b32f9a,01 Source,va,04 Coworkers
+c912fbb0c2e0cbc8e3e9cf4f338f0d8f496dfc15,02 Sink,wi,09 Associations
+9f13d568721ba365af7fb04edb3ea08f26fd3145,01 Source,co,04 Coworkers
+919d0f23146bba8458b325dd74db38437e9a6240,01 Source,ny,04 Coworkers
